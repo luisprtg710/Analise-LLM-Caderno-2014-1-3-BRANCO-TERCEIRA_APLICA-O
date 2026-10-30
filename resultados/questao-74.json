@@ -1,0 +1,78 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2014,
+      "dia": 1,
+      "numero": 3,
+      "cor": "BRANCO",
+      "aplicacao": "TERCEIRA_APLICAÇÃO"
+    },
+    "identificacao_questao": {
+      "numero": 74,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-74.txt",
+      "gabarito": "C"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CN",
+      "nome": "Ciências da Natureza e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C3",
+      "descricao": "Associar intervenções que resultam em degradação ou conservação ambiental a processos produtivos e sociais e a instrumentos ou ações científico-tecnológicos."
+    },
+    "habilidade_principal": {
+      "id": "H10",
+      "descricao": "Analisar perturbações ambientais, identificando fontes, transporte e(ou) destino dos poluentes ou prevendo efeitos em sistemas naturais, produtivos ou sociais."
+    },
+    "habilidades_relacionadas": [
+      "H17"
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Ecologia e ciências ambientais",
+    "conteudos_relacionados": [
+      "Poluição da água, do solo e do ar",
+      "Recursos hídricos"
+    ],
+    "assunto": "Poluição hídrica e escoamento pluvial",
+    "objeto_de_analise": "Gráfico de precipitação pluviométrica mensal acumulada e médias climatológicas",
+    "fenomeno_conceito": "Relação entre volume de chuvas (escoamento pluvial) e carga de poluentes transportados para os rios"
+  },
+  "analise_alternativas": [],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-27T00:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "A questão aborda o impacto do escoamento pluvial na poluição dos rios.",
+      "O eixo cognitivo III é exigido para a interpretação de dados expressos em gráfico.",
+      "A habilidade H10 da Matriz de Ciências da Natureza trata da análise de perturbações ambientais e destino de poluentes."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2014",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Luis Miguel de Oliveira Paranhos",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

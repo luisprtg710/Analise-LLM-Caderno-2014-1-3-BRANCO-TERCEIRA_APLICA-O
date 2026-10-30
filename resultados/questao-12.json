@@ -1,0 +1,106 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2014,
+      "dia": 1,
+      "numero": 3,
+      "cor": "BRANCO",
+      "aplicacao": "TERCEIRA_APLICAÇÃO"
+    },
+    "identificacao_questao": {
+      "numero": 12,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-12.txt",
+      "gabarito": "D"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C3",
+      "descricao": "Compreender a produção e o papel histórico das instituições sociais, políticas e econômicas, associando-as aos diferentes grupos, conflitos e movimentos sociais."
+    },
+    "habilidade_principal": {
+      "id": "H13",
+      "descricao": "Analisar a atuação dos movimentos sociais que contribuíram para mudanças ou rupturas em processos de disputa pelo poder."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H11",
+        "descricao": "Identificar registros de práticas de grupos sociais no tempo e no espaço."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Movimentos Sociais",
+    "conteudos_relacionados": [
+      "História do Brasil Contemporâneo",
+      "Redemocratização"
+    ],
+    "assunto": "Sindicalismo e greves na década de 1980",
+    "objeto_de_analise": "Evolução do número de greves no Brasil entre 1985 e 1992",
+    "fenomeno_conceito": "Ação sindical e redemocratização"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "As políticas neoliberais e privatizações ganharam força no Brasil na década de 1990 (governo Collor e FHC), e não como a principal mola impulsionadora das greves da segunda metade dos anos 1980."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "O Plano Collor foi implementado em 1990, ultrapassando o recorte temporal de maior intensificação das greves apresentado (pico em 1989)."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "O período não foi de crise no sindicalismo, mas sim de forte expansão, organização e combatividade dos movimentos sindicais no Brasil."
+    },
+    {
+      "alternativa": "D",
+      "correta": true,
+      "justificativa": "A intensificação das greves na segunda metade da década de 1980 está atrelada ao processo de redemocratização e ao fortalecimento da capacidade organizativa dos trabalhadores após o fim da ditadura militar, que antes continha severamente a ação sindical."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "Embora a inflação e o arrocho salarial fossem fatores presentes, a alternativa traz uma contradição conceitual ao sugerir que a 'fragilidade social' (item D) foi superada pela ampliação organizativa, sendo o contexto pós-ditadura o marco da retomada das lutas."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T00:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "Análise da tabela de greves entre 1985 e 1992",
+      "Associação com a redemocratização brasileira e atuação dos movimentos sindicais"
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2014",
+      "arquivo_matriz": "Matriz ENEM Oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Luis Miguel de Oliveira Paranhos",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

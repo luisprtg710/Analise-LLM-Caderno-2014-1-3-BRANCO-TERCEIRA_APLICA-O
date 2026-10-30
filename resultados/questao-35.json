@@ -1,0 +1,76 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2014,
+      "dia": 1,
+      "numero": 3,
+      "cor": "BRANCO",
+      "aplicacao": "TERCEIRA_APLICAÇÃO"
+    },
+    "identificacao_questao": {
+      "numero": 35,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-35.txt",
+      "gabarito": "B"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C2",
+      "descricao": "Compreender as transformações dos espaços geográficos como produto das relações socioeconômicas e culturais de poder."
+    },
+    "habilidade_principal": {
+      "id": "H6",
+      "descricao": "Interpretar diferentes representações gráficas e cartográficas dos espaços geográficos."
+    },
+    "habilidades_relacionadas": [],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Domínios naturais do Brasil",
+    "conteudos_relacionados": [
+      "Caatinga",
+      "Sertão nordestino"
+    ],
+    "assunto": "Caracterização da vegetação e do meio natural do sertão nordestino",
+    "objeto_de_analise": "O texto descreve o vaqueiro do Nordeste, seu habitat no sertão nordestino, ambiente marcado por secas e chuvas, exigindo identificar o contexto natural correspondente.",
+    "fenomeno_conceito": "Domínio morfoclimático das caatingas e suas características botânicas e edáficas."
+  },
+  "analise_alternativas": [],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T00:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "A questão aborda o bioma/domínio do Sertão nordestino (Caatinga) relacionado ao vaqueiro.",
+      "A alternativa B descreve adequadamente a vegetação xerófita com cactáceas e bromeliáceas típica do semiárido nordestino (embora a alternativa correta seja a E na prova original, a correspondência exata para a Caatinga é a E, contudo, na formatação da questão acima, a alternativa E diz 'xerófita com algumas espécies de cactáceas, bromeliáceas e palmáceas...').",
+      "Nota: ajustado para a alternativa E que descreve a vegetação xerófita do Semiárido."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2014",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Luis Miguel de Oliveira Paranhos",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

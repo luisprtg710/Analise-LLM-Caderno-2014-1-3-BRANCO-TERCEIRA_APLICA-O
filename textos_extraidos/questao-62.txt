@@ -1,0 +1,13 @@
+QUESTÃO 62
+
+O cianeto de sódio, $\text{NaCN}$, é um poderoso agente complexante, usado em laboratórios químicos e em indústrias de extração de ouro. Quando uma indústria lança $\text{NaCN}$ sólido nas águas de um rio, ocorre o seguinte equilíbrio químico:
+
+$$\text{CN}^- (\text{aq}) + \text{H}_2\text{O} (\text{l}) \rightleftharpoons \text{HCN} (\text{aq}) + \text{OH}^- (\text{aq})$$
+
+Esse equilíbrio químico é decorrente de uma reação de
+
+A síntese.
+B hidrólise.
+C oxirredução.
+D precipitação.
+E decomposição.

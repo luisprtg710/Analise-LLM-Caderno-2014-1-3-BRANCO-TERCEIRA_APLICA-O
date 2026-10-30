@@ -1,0 +1,27 @@
+QUESTÃO 45
+
+[FIGURA: Gráfico climático combinando gráfico de barras e gráfico de linha, intitulado "Precipitação total e temperatura média mensal 1961-1990". No eixo horizontal ("Meses"), estão representados os meses de 1 a 12. No eixo vertical esquerdo ("Precipitação (mm)"), os valores variam de 0,0 a 350,0 mm, representados por barras cinzas verticais para cada mês. No eixo vertical direito ("(°C)"), os valores variam de 10,0 a 28,0 °C, representados por uma linha preta contínua que indica a temperatura. 
+Valores aproximados por mês:
+- Mês 1: Precipitação ≈ 250 mm, Temperatura ≈ 26,5 °C
+- Mês 2: Precipitação ≈ 280 mm, Temperatura ≈ 26,8 °C
+- Mês 3: Precipitação ≈ 310 mm, Temperatura ≈ 27,0 °C
+- Mês 4: Precipitação ≈ 300 mm, Temperatura ≈ 27,0 °C
+- Mês 5: Precipitação ≈ 250 mm, Temperatura ≈ 27,0 °C
+- Mês 6: Precipitação ≈ 110 mm, Temperatura ≈ 27,0 °C
+- Mês 7: Precipitação ≈ 90 mm, Temperatura ≈ 27,0 °C
+- Mês 8: Precipitação ≈ 60 mm, Temperatura ≈ 27,5 °C
+- Mês 9: Precipitação ≈ 90 mm, Temperatura ≈ 28,0 °C
+- Mês 10: Precipitação ≈ 120 mm, Temperatura ≈ 28,2 °C
+- Mês 11: Precipitação ≈ 180 mm, Temperatura ≈ 28,0 °C
+- Mês 12: Precipitação ≈ 220 mm, Temperatura ≈ 27,0 °C
+A legenda indica que as barras cinzas correspondem à "Precipitação" e a linha preta corresponde à "Temperatura".]
+
+INMET. Normais climatológicas do Brasil (1961-1990). Disponível em: www.lce.esalq.usp.br. Acesso em: 20 out. 2011 (adaptado).
+
+A relação entre precipitação e temperatura apresentada indica tratar-se de um clima
+
+A tropical, com duas estações bem definidas, uma seca e outra chuvosa, temperaturas médias mensais elevadas, amplitudes térmicas anuais acentuadas.
+B temperado, com chuvas bem distribuídas durante o ano, temperaturas quentes no verão e frias no inverno e amplitudes térmicas anuais acentuadas.
+C equatorial, com ocorrência de chuvas em todos os meses do ano, com temperaturas mensais elevadas e amplitudes térmicas anuais baixas.
+D subtropical, com chuvas bem distribuídas ao longo do ano, temperaturas com médias baixas no inverno e elevadas no verão e amplitudes térmicas anuais acentuadas.
+E tropical de altitude, com chuvas concentradas no verão, temperaturas médias anuais baixas e amplitudes térmicas medianas.

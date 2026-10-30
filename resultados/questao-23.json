@@ -1,0 +1,105 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2014,
+      "dia": 1,
+      "numero": 3,
+      "cor": "BRANCO",
+      "aplicacao": "TERCEIRA_APLICAÇÃO"
+    },
+    "identificacao_questao": {
+      "numero": 23,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-23.txt",
+      "gabarito": "A"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "LC",
+      "nome": "Linguagens, Códigos e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C3",
+      "descricao": "Compreender e usar a linguagem corporal como relevante para a própria vida, integradora social e formadora da identidade."
+    },
+    "habilidade_principal": {
+      "id": "H11",
+      "descricao": "Reconhecer a linguagem corporal como meio de interação social, considerando os limites de desempenho e as alternativas de adaptação para diferentes indivíduos."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H12",
+        "descricao": "Reconhecer diferentes funções da arte, do trabalho da produção dos artistas em seus meios culturais."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Estudo das práticas corporais",
+    "conteudos_relacionados": [
+      "Estudo do texto: as sequências discursivas e os gêneros textuais no sistema de comunicação e informação"
+    ],
+    "assunto": "Capoeira no ambiente escolar",
+    "objeto_de_analise": "Papel social e cultural da capoeira na escola",
+    "fenomeno_conceito": "Linguagem corporal e inclusão social"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "corretude": true,
+      "justificativa": "A capoeira inserida na escola atua como prática corporal integradora, promovendo o diálogo e a inclusão social dos estudantes, alinhando-se aos princípios da linguagem corporal como formadora de identidade e interação."
+    },
+    {
+      "alternativa": "B",
+      "corretude": false,
+      "justificativa": "A prática da capoeira não contraria o Estatuto da Criança e do Adolescente; pelo contrário, promove o desenvolvimento cultural e social dos jovens."
+    },
+    {
+      "alternativa": "C",
+      "corretude": false,
+      "justificativa": "A capoeira é intrinsecamente vinculada à cultura popular brasileira, sendo reconhecida como patrimônio imaterial."
+    },
+    {
+      "alternativa": "D",
+      "corretude": false,
+      "justificativa": "A capoeira envolve prática corporal ativa (práxis), não se limitando a um exercício puramente teórico e intelectual."
+    },
+    {
+      "alternativa": "E",
+      "corretude": false,
+      "justificativa": "A capoeira possui forte vínculo identitário e cultural com a história e a ancestralidade afro-brasileira."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "A questão aborda a capoeira na escola e seu reconhecimento como patrimônio imaterial.",
+      "O tema central é a prática corporal como integradora social e formadora de identidade, pertencente à competência 3 de Linguagens."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2014",
+      "arquivo_matriz": "Matriz ENEM Oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Luis Miguel de Oliveira Paranhos",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2014,
+      "dia": 1,
+      "numero": 3,
+      "cor": "BRANCO",
+      "aplicacao": "TERCEIRA_APLICAÇÃO"
+    },
+    "identificacao_questao": {
+      "numero": 73,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-73.txt",
+      "gabarito": "A"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CN",
+      "nome": "Ciências da Natureza e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C2",
+      "descricao": "Identificar a presença e aplicar as tecnologias associadas às ciências naturais em diferentes contextos."
+    },
+    "habilidade_principal": {
+      "id": "H7",
+      "descricao": "Selecionar testes de controle, parâmetros ou critérios para a comparação de materiais e produtos, tendo em vista a defesa do consumidor, a saúde do trabalhador ou a qualidade de vida."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H18",
+        "descricao": "Relacionar propriedades físicas, químicas ou biológicas de produtos, sistemas ou procedimentos tecnológicos às finalidades a que se destinam."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Termologia",
+    "conteudos_relacionados": [
+      "Propriedades físicas dos materiais"
+    ],
+    "assunto": "Transferência de calor",
+    "objeto_de_analise": "Condutividade térmica de metais",
+    "fenomeno_conceito": "Condução térmica"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": true,
+      "justificativa": "O alumínio apresenta a maior condutividade térmica dentre os metais listados na tabela (237 W/(m.K)), o que garante maior eficiência na condução de calor para o aquecimento da água, sendo o melhor substituto para o cobre."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "O chumbo possui a menor condutividade térmica (35 W/(m.K)), o que o torna ineficiente para a condução de calor."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "O ferro possui condutividade térmica de 80 W/(m.K), valor consideravelmente inferior ao do alumínio."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "O níquel apresenta condutividade térmica de 91 W/(m.K), menor do que a do alumínio."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "O zinco apresenta condutividade térmica de 116 W/(m.K), que é menor que a do alumínio."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "A questão exige a análise da tabela de propriedades físicas para selecionar o material com maior condutividade térmica para um coletor solar."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2014",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Luis Miguel de Oliveira Paranhos",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

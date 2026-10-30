@@ -1,0 +1,11 @@
+QUESTÃO 86
+
+Uma forma de poluição natural da água acontece em regiões ricas em dolomita ($\text{CaCO}_3\text{MgCO}_3$). Na presença de dióxido de carbono (dissolvido na água) a dolomita é convertida em $\text{Ca(HCO}_3)_2$ e $\text{MgCO}_3$, elevando a concentração de íons $\text{Ca}^{2+}$ e $\text{Mg}^{2+}$ na água. Uma forma de purificação dessa água, denominada água dura, é adicionar $\text{Ca(OH)}_2$ e $\text{Na}_2\text{CO}_3$ a ela. Dessa forma, ocorre uma série de reações químicas gerando como produto final $\text{CaCO}_3$ e $\text{Mg(OH)}_2$, que são menos solúveis que $\text{Ca(HCO}_3)_2$ e $\text{MgCO}_3$.
+
+Uma técnica apropriada para obtenção da água pura após o abrandamento é
+
+A decantação.
+B sublimação.
+C dissolução fracionada.
+D destilação fracionada.
+E extração por solvente apolar.

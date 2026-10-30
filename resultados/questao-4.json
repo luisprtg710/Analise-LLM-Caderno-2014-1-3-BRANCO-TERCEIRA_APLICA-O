@@ -1,0 +1,106 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2014,
+      "dia": 1,
+      "numero": 3,
+      "cor": "BRANCO",
+      "aplicacao": "TERCEIRA_APLICAÇÃO"
+    },
+    "identificacao_questao": {
+      "numero": 4,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-4.txt",
+      "gabarito": "C"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C2",
+      "descricao": "Compreender as transformações dos espaços geográficos como produto das relações socioeconômicas e culturais de poder."
+    },
+    "habilidade_principal": {
+      "id": "H7",
+      "descricao": "Identificar os significados histórico-geográficos das relações de poder entre as nações"
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H9",
+        "descricao": "Comparar o significado histórico-geográfico das organizações políticas e socioeconômicas em escala local, regional ou mundial."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Geopolítica e conflitos entre os séculos XIX e XX: Imperialismo, a ocupação da Ásia e da África, as Guerras Mundiais e a Guerra Fria.",
+    "conteudos_relacionados": [
+      "Conflitos político-culturais pós-Guerra Fria, reorganização política internacional e os organismos multilaterais nos séculos XX e XXI."
+    ],
+    "assunto": "A atuação da OTAN no contexto pós-Guerra Fria e a transformação da ordem mundial.",
+    "objeto_de_analise": "O enfraquecimento e a reavaliação dos objetivos da OTAN após o fim do bloco socialista.",
+    "fenomeno_conceito": "Fim da Guerra Fria e a reconfiguração da geopolítica internacional."
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "A atuação contra o terrorismo internacional ocorreu, mas não é a causa primordial apontada para o questionamento de sua legitimidade original relacionada à bipolaridade."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "A OTAN concentrou suas intervenções principalmente no hemisfério norte e em regiões de seu entorno estratégico (como Europa Oriental e Oriente Médio)."
+    },
+    {
+      "alternativa": "C",
+      "correta": true,
+      "justificativa": "Criada no contexto da Guerra Fria para conter a expansão soviética, a OTAN perdeu seu principal antagonista e justificativa inicial com o fim do bloco socialista."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "As bases militares da OTAN foram redirecionadas para novas zonas de tensão e não para áreas consideradas pacificadas."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "A organização atua prioritariamente em conflitos externos e missões internacionais, e não em conflitos civis internos dos países membros."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-11-20",
+    "datetime": "2024-06-06T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "A questão aborda diretamente a OTAN, organização criada na Guerra Fria.",
+      "O texto menciona a necessidade de revisão de tarefas devido à evolução do ambiente estratégico mundial.",
+      "A alternativa C aponta corretamente a derrocada do bloco socialista como fator de perda de função inicial da aliança."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem_2014_q04",
+      "arquivo_matriz": "matriz_enem_oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Luis Miguel de Oliveira Paranhos",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

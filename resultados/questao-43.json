@@ -1,0 +1,105 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2014,
+      "dia": 1,
+      "numero": 3,
+      "cor": "BRANCO",
+      "aplicacao": "TERCEIRA_APLICAÇÃO"
+    },
+    "identificacao_questao": {
+      "numero": 43,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-43.txt",
+      "gabarito": "A"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C6",
+      "descricao": "Compreender a sociedade e a natureza, reconhecendo suas interações no espaço em diferentes contextos históricos e geográficos."
+    },
+    "habilidade_principal": {
+      "id": "H27",
+      "descricao": "Analisar de maneira crítica as interações da sociedade com o meio físico, levando em consideração aspectos históricos e(ou) geográficos."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H26",
+        "descricao": "Identificar em fontes diversas o processo de ocupação dos meios físicos e as relações da vida humana com a paisagem."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Ilhas de calor",
+    "conteudos_relacionados": [
+      "Poluição atmosférica",
+      "Clima urbano"
+    ],
+    "assunto": "Problemas ambientais urbanos",
+    "objeto_de_analise": "Aumento da temperatura nas áreas urbanas",
+    "fenomeno_conceito": "Ilha de calor"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": true,
+      "justificativa": "A ilha de calor é o fenômeno climático característico das áreas urbanas que eleva a temperatura nessas regiões em comparação com as áreas rurais vizinhas, devido à retenção de calor e à poluição."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "A inversão térmica é um fenômeno atmosférico que retém poluentes perto da superfície, mas não é o fenômeno que define o aumento geral da temperatura urbana."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "O efeito estufa é um fenômeno global de retenção de calor na atmosfera terrestre, não sendo restrito ou característico apenas das áreas urbanas."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "A rarefação da camada de ozônio é um problema global relacionado à radiação ultravioleta, sem correlação direta com o aumento local de temperatura nas cidades."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "A chuva ácida é provocada pela poluição atmosférica com óxidos de enxofre e nitrogênio, causando corrosão e acidificação, mas não é o fenômeno do aumento de temperatura urbana."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "GPT-4",
+    "versao": "1.0",
+    "datetime": "2023-10-27T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "A questão trata explicitamente de problemas ambientais urbanos e o aumento da temperatura, o que remete ao conceito geográfico de ilhas de calor."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2014",
+      "arquivo_matriz": "Matriz ENEM Oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Luis Miguel de Oliveira Paranhos",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

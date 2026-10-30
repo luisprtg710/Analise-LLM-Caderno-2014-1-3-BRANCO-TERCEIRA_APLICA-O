@@ -1,0 +1,105 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2014,
+      "dia": 1,
+      "numero": 3,
+      "cor": "BRANCO",
+      "aplicacao": "TERCEIRA_APLICAÇÃO"
+    },
+    "identificacao_questao": {
+      "numero": 34,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-34.txt",
+      "gabarito": "C"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C3",
+      "descricao": "Compreender a produção e o papel histórico das instituições sociais, políticas e econômicas, associando-as aos diferentes grupos, conflitos e movimentos sociais."
+    },
+    "habilidade_principal": {
+      "id": "H11",
+      "descricao": "Identificar registros de práticas de grupos sociais no tempo e no espaço."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H16",
+        "descricao": "Identificar registros sobre o papel das técnicas e tecnologias na organização do trabalho e/ou da vida social."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Características e transformações das estruturas produtivas",
+    "conteudos_relacionados": [
+      "Modernização da agricultura e estruturas agrárias tradicionais"
+    ],
+    "assunto": "Crise da agricultura no final do século XIX e técnicas tradicionais",
+    "objeto_de_analise": "Texto de 1870 sobre o uso da enxada na agricultura",
+    "fenomeno_conceito": "Arcaísmo tecnológico na produção agrícola brasileira",
+    "analise_alternativas": [
+      {
+        "alternativa": "A",
+        "correta": true,
+        "justificativa": "O texto critica o uso da enxada na grande agricultura, comparando-a a ferramentas inadequadas, o que evidencia a crítica aos métodos arcaicos de produção apontados como causa da crise agrícola."
+      },
+      {
+        "alternativa": "B",
+        "correta": false,
+        "justificativa": "O Brasil no final do século XIX mantinha uma economia predominantemente agroexportadora, não havendo subordinação econômica à atividade industrial nesse período."
+      },
+      {
+        "alternativa": "C",
+        "correta": false,
+        "justificativa": "A utilização de imigrantes foi uma alternativa para suprir a falta de mão de obra após o fim do tráfico negreiro e a abolição, e não a causa da crise apontada no trecho."
+      },
+      {
+        "alternativa": "D",
+        "correta": false,
+        "justificativa": "O texto aborda a ineficiência de ferramentas na grande cultura, não fazendo referência à disseminação de pequenas propriedades."
+      },
+      {
+        "alternativa": "E",
+        "correta": false,
+        "justificativa": "O foco do fragmento é a inadequação instrumental e técnica para a grande lavoura, e não a diversificação dos gêneros."
+      }
+    ]
+  },
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-05-13T00:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "O texto compara o uso da enxada com ferramentas inadequadas para a grande cultura.",
+      "O autor aponta o atraso tecnológico e a ineficiência dos métodos tradicionais de cultivo."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2014",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Luis Miguel de Oliveira Paranhos",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

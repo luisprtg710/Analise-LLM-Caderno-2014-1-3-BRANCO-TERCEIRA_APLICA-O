@@ -1,0 +1,106 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2014,
+      "dia": 1,
+      "numero": 3,
+      "cor": "BRANCO",
+      "aplicacao": "TERCEIRA_APLICAÇÃO"
+    },
+    "identificacao_questao": {
+      "numero": 5,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-5.txt",
+      "gabarito": "E"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C6",
+      "descricao": "Compreender a sociedade e a natureza, reconhecendo suas interações no espaço em diferentes contextos históricos e geográficos."
+    },
+    "habilidade_principal": {
+      "id": "H27",
+      "descricao": "Analisar de maneira crítica as interações da sociedade com o meio físico, levando em consideração aspectos históricos e(ou) geográficos."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H28",
+        "descricao": "Relacionar o uso das tecnologias com os impactos sócio-ambientais em diferentes contextos histórico-geográficos."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Impacto ambiental das atividades econômicas no Brasil",
+    "conteudos_relacionados": [
+      "Vida urbana: redes e hierarquia nas cidades, pobreza e segregação espacial",
+      "Relação homem-natureza, a apropriação dos recursos naturais pelas sociedades ao longo do tempo"
+    ],
+    "assunto": "Enchentes urbanas e impermeabilização do solo",
+    "objeto_de_analise": "Charge retratando enchente em área urbana e suas causas estruturais",
+    "fenomeno_conceito": "Impermeabilização do solo urbano e acúmulo de resíduos sólidos (lixo)"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "analise": "Incorreta. As chuvas associadas a enchentes urbanas intensas no Brasil geralmente decorrem de chuvas convectivas (temporais de verão), e não especificamente de frentes frias restritas ao litoral."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "analise": "Incorreta. O efeito estufa global não é a causa direta e imediata da ampliação de enchentes locais nas metrópoles retratadas na charge."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "analise": "Incorreta. Canais concretados são uma tentativa de escoamento, e não a causa que intensifica o problema retratado da forma descrita."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "analise": "Incorreta. Embora ilhas de calor existam, a causa principal e direta da formação rápida de alagamentos e enchentes retratadas na dinâmica urbana é a impermeabilização do solo e o lixo."
+    },
+    {
+      "alternativa": "E",
+      "correta": true,
+      "analise": "Correta. A impermeabilização do solo provocada pela pavimentação e construções urbanas impede a infiltração da água da chuva, somada ao acúmulo de lixo que entope bueiros, intensificando as enchentes nas cidades."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-25T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "A questão aborda a temática de enchentes urbanas, muito comum na Geografia Urbana e nos estudos sobre a relação sociedade-natureza.",
+      "A habilidade H27 da matriz de Ciências Humanas exige analisar interações da sociedade com o meio físico em contextos geográficos."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2014",
+      "arquivo_matriz": "Matriz ENEM Oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Luis Miguel de Oliveira Paranhos",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

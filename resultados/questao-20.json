@@ -1,0 +1,78 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2014,
+      "dia": 1,
+      "numero": 3,
+      "cor": "BRANCO",
+      "aplicacao": "TERCEIRA_APLICAÇÃO"
+    },
+    "identificacao_questao": {
+      "numero": 20,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-20.txt",
+      "gabarito": "B"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "MT",
+      "nome": "Matemática e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C3",
+      "descricao": "Construir noções de grandezas e medidas para a compreensão da realidade e a solução de problemas do cotidiano."
+    },
+    "habilidade_principal": {
+      "id": "H11",
+      "descricao": "Utilizar a noção de escalas na leitura de representação de situação do cotidiano."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H10",
+        "descricao": "Identificar relações entre grandezas e unidades de medida."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Conhecimentos geométricos",
+    "conteudos_relacionados": [
+      "Razões e proporções"
+    ],
+    "assunto": "Escalas",
+    "objeto_de_analise": "Leitura de representação cartográfica ou de desenho em escala",
+    "fenomeno_conceito": "Proporcionalidade em grandezas de comprimento"
+  },
+  "analise_alternativas": [],
+  "auditoria_da_ia": {
+    "modelo": "gemini-1.5-pro",
+    "versao": "1.0",
+    "datetime": "2024-05-20T00:00:00",
+    "confianca": 0.85,
+    "evidencias": [
+      "Questão envolve o uso de escala e proporção geométrica, típica da habilidade H11."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2014",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Luis Miguel de Oliveira Paranhos",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

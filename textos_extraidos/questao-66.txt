@@ -1,0 +1,21 @@
+QUESTÃO 66
+
+Você já ouviu essa frase: rolou uma química entre nós! O amor é frequentemente associado a um fenômeno mágico ou espiritual, porém existe a atuação de alguns compostos em nosso corpo, que provocam sensações quando estamos perto da pessoa amada, como coração acelerado e aumento da frequência respiratória. Essas sensações são transmitidas por neurotransmissores, tais como adrenalina, noradrenalina, feniletilamina, dopamina e as serotoninas.
+
+[FIGURA: Tabela com estruturas químicas de cinco neurotransmissores dividida em células:
+- Primeira célula superior esquerda: Estrutura da Adrenalina, mostrando um anel benzeno ligado a duas hidroxilas (fenol), uma cadeia lateral com uma hidroxila e um grupo amino secundário ligado a uma metila (-NH-CH3).
+- Primeira célula superior direita: Estrutura da Noradrenalina, mostrando um anel benzeno com duas hidroxilas, uma cadeia lateral com uma hidroxila e um grupo amino primário (-NH2).
+- Segunda célula intermediária esquerda: Estrutura da Feniletilamina, mostrando um anel benzeno ligado a uma cadeia etilamina (-CH2-CH2-NH2).
+- Segunda célula intermediária direita: Estrutura da Dopamina, mostrando um anel benzeno com duas hidroxilas, ligado a um grupo etilamina (-CH2CH2NH2).
+- Terceira célula inferior esquerda: Estrutura da Serotonina, mostrando um sistema de anéis fusionados (indol) com uma hidroxila e uma cadeia lateral contendo um grupo amino primário (-NH2).
+- Terceira célula inferior direita: Célula em branco.]
+
+Disponível em: www.brasilescola.com. Acesso em: 1 mar. 2012 (adaptado).
+
+Os neurotransmissores citados possuem em comum o grupo funcional característico da função
+
+A éter.
+B álcool.
+C amina.
+D cetona.
+E ácido carboxílico.

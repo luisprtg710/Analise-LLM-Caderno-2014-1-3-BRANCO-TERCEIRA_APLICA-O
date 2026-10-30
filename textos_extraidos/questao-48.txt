@@ -1,0 +1,11 @@
+QUESTÃO 48
+
+Alguns materiais poliméricos não podem ser utilizados para a produção de certos tipos de artefatos, seja por limitações das propriedades mecânicas, seja pela facilidade com que sofrem degradação, gerando subprodutos indesejáveis para aquela aplicação. Torna-se importante, então, a fiscalização, para determinar a natureza do polímero utilizado na fabricação do artefato. Um dos métodos possíveis baseia-se na decomposição do polímero para a geração dos monômeros que lhe deram origem.
+
+A decomposição controlada de um artefato gerou a diamina $H_2N(CH_2)_6NH_2$ e o diácido $HO_2C(CH_2)_4CO_2H$. Logo, o artefato era feito de
+
+A poliéster.
+B poliamida.
+C polietileno.
+D poliacrilato.
+E polipropileno.

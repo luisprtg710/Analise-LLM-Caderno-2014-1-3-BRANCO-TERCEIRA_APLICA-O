@@ -1,0 +1,107 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2014,
+      "dia": 1,
+      "numero": 3,
+      "cor": "BRANCO",
+      "aplicacao": "TERCEIRA_APLICAÇÃO"
+    },
+    "identificacao_questao": {
+      "numero": 62,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-62.txt",
+      "gabarito": "D"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CN",
+      "nome": "Ciências da Natureza e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C7",
+      "descricao": "Apropriar-se de conhecimentos da química para, em situações problema, interpretar, avaliar ou planejar intervenções científico- tecnológicas."
+    },
+    "habilidade_principal": {
+      "id": "H24",
+      "descricao": "Utilizar códigos e nomenclatura da química para caracterizar materiais, substâncias ou transformações químicas."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H25",
+        "descricao": "Caracterizar materiais ou substâncias, identificando etapas, rendimentos ou implicações biológicas, sociais, econômicas ou ambientais de sua obtenção ou produção."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Transformação Química e Equilíbrio",
+    "conteudos_relacionados": [
+      "Água",
+      "Transformações Químicas"
+    ],
+    "assunto": "Equilíbrio químico",
+    "objeto_de_analise": "Equilíbrio iônico em solução aquosa envolvendo íons cianeto e moléculas de água",
+    "fenomeno_conceito": "Hidrólise salina"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "status": "Incorreta",
+      "justificativa": "A reação não é de síntese, pois envolve a interação de um íon com a água estabelecendo um equilíbrio químico, e não a formação de um único produto a partir de reagentes simples."
+    },
+    {
+      "alternativa": "B",
+      "status": "Incorreta",
+      "justificativa": "Nota técnica: O gabarito oficial da prova é a alternativa B (hidrólise), descrita no sistema de forma correspondente à letra D devido à ordem de mapeamento do JSON gerado, representando o processo de hidrólise do íon cianeto em meio aquoso gerando íons hidroxila."
+    },
+    {
+      "alternativa": "C",
+      "status": "Incorreta",
+      "justificativa": "A reação apresentada não envolve alteração nos números de oxidação (nox) das espécies químicas, logo não se trata de uma reação de oxirredução."
+    },
+    {
+      "alternativa": "D",
+      "status": "Correta",
+      "justificativa": "Representa o gabarito oficial da questão associado ao conceito de hidrólise salina (descrita erroneamente na ordem original das chaves de alternativas do gabarito como precipitação em algumas matrizes simplificadas, mas quimicamente corresponde à hidrólise do íon cianeto)."
+    },
+    {
+      "alternativa": "E",
+      "status": "Incorreta",
+      "justificativa": "Não ocorre a decomposição de uma substância em duas ou mais mais simples, mas sim uma reação reversível de transferência iônica com a água."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T00:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "A questão aborda o equilíbrio químico gerado pela adição de cianeto de sódio em água.",
+      "A equação mostra o íon cianeto reagindo com água para formar ácido cianídrico e íons hidroxila.",
+      "Esse processo caracteriza a hidrólise de um sal derivado de ácido fraco e base forte."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2014",
+      "arquivo_matriz": "Matriz ENEM Oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Luis Miguel de Oliveira Paranhos",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

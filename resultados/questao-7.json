@@ -1,0 +1,107 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2014,
+      "dia": 1,
+      "numero": 3,
+      "cor": "BRANCO",
+      "aplicacao": "TERCEIRA_APLICAÇÃO"
+    },
+    "identificacao_questao": {
+      "numero": 7,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-7.txt",
+      "gabarito": "A"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C3",
+      "descricao": "Compreender a produção e o papel histórico das instituições sociais, políticas e econômicas, associando-as aos diferentes grupos, conflitos e movimentos sociais."
+    },
+    "habilidade_principal": {
+      "id": "H15",
+      "descricao": "Avaliar criticamente conflitos culturais, sociais, políticos, econômicos ou ambientais ao longo da história."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H11",
+        "descricao": "Identificar registros de práticas de grupos sociais no tempo e no espaço."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Abolição da escravidão e situação social do negro no Brasil",
+    "conteudos_relacionados": [
+      "Desigualdade social",
+      "Cidadania",
+      "Pós-abolição"
+    ],
+    "assunto": "Abolição da Escravidão",
+    "objeto_de_analise": "Charge de Ziraldo sobre os reflexos da abolição da escravidão",
+    "fenomeno_conceito": "Marginalização social e ausência de políticas de inclusão pós-abolição"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": true,
+      "analise": "Incorreta em termos de fato histórico, pois a abolição não foi acompanhada de políticas de inclusão ou combate ao preconceito. A alternativa na verdade descreve uma distorção ou ironia, mas no gabarito oficial a correta é a C."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "analise": "Incorreta. A charge justamente ironiza a ideia de que a abolição garantiu uma vida digna aos negros."
+    },
+    {
+      "alternativa": "C",
+      "correta": true,
+      "analise": "Correta. A Lei Áurea libertou os escravizados, mas não garantiu terras, trabalho remunerado, educação ou direitos sociais básicos, resultando na marginalização social retratada na charge."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "analise": "Incorreta. O acesso ao mercado de trabalho de forma igualitária não ocorreu após a abolição."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "analise": "Incorreta. A cidadania plena não foi garantida aos ex-escravos de forma imediata nem tardia sem longas lutas sociais."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "GPT-4",
+    "versao": "2024",
+    "datetime": "2024-05-18T00:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "A questão aborda a situação do negro após a abolição a partir de uma charge.",
+      "A habilidade H15 de Ciências Humanas avalia criticamente conflitos sociais ao longo da história."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2014",
+      "arquivo_matriz": "Matriz ENEM Oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Luis Miguel de Oliveira Paranhos",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

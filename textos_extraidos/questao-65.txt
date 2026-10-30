@@ -1,0 +1,15 @@
+QUESTÃO 65
+
+Uma criança está em um carrossel em um parque de diversões. Este brinquedo descreve um movimento circular com intervalo de tempo regular.
+
+A força resultante que atua sobre a criança
+
+A) é nula.
+
+B) é oblíqua à velocidade do carrossel.
+
+C) é paralela à velocidade do carrossel.
+
+D) está direcionada para fora do brinquedo.
+
+E) está direcionada para o centro do brinquedo.

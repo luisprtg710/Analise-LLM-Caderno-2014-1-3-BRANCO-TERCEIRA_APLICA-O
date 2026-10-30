@@ -1,0 +1,11 @@
+QUESTÃO 75
+
+Dois satélites artificiais, $S_1$ e $S_2$, de massas M e 2M, respectivamente, estão em órbita ao redor da Terra e sujeitos ao seu campo gravitacional. Quando o satélite $S_1$ passa por um determinado ponto do espaço, sua aceleração é de $7,0\text{ m/s}^2$.
+
+Qual será a aceleração do satélite $S_2$, quando ele passar pelo mesmo ponto?
+
+A) $3,5\text{ m/s}^2$
+B) $7,0\text{ m/s}^2$
+C) $9,8\text{ m/s}^2$
+D) $14\text{ m/s}^2$
+E) $49\text{ m/s}^2$

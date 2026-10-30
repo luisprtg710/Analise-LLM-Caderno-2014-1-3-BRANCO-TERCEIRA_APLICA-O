@@ -1,0 +1,106 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2014,
+      "dia": 1,
+      "numero": 3,
+      "cor": "BRANCO",
+      "aplicacao": "TERCEIRA_APLICAÇÃO"
+    },
+    "identificacao_questao": {
+      "numero": 33,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-33.txt",
+      "gabarito": "A"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": null,
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C6",
+      "descricao": "Compreender a sociedade e a natureza, reconhecendo suas interações no espaço em diferentes contextos históricos e geográficos."
+    },
+    "habilidade_principal": {
+      "id": "H27",
+      "descricao": "Analisar de maneira crítica as interações da sociedade com o meio físico, levando em consideração aspectos históricos e(ou) geográficos."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H15",
+        "descricao": "Avaliar criticamente conflitos culturais, sociais, políticos, econômicos ou ambientais ao longo da história."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Impactos ambientais",
+    "conteudos_relacionados": [
+      "Relação homem-natureza",
+      "Sustentabilidade"
+    ],
+    "assunto": "Crise ambiental e desenvolvimento",
+    "objeto_de_analise": "Contradições entre produção, consumo e degradação ambiental",
+    "fenomeno_conceito": "Impacto ambiental e degradação socioambiental",
+    "analise_alternativas": [
+      {
+        "alternativa": "A",
+        "correta": true,
+        "justificativa": "O texto aponta que o crescimento da produção e do consumo gerou impactos negativos nos sistemas de suporte à vida, evidenciando as tensões e contradições da organização social em relação ao meio natural."
+      },
+      {
+        "alternativa": "B",
+        "correta": false,
+        "justificativa": "Embora a preservação seja um tema importante, o texto enfatiza a degradação e as desigualdades resultantes do modelo de organização social, e não apenas o conflito direto entre economia e preservação."
+      },
+      {
+        "alternativa": "C",
+        "correta": false,
+        "justificativa": "A sociedade não está dissociada das outras formas de vida, pelo contrário, depende delas e impacta diretamente os sistemas de suporte à vida."
+      },
+      {
+        "alternativa": "D",
+        "correta": false,
+        "justificativa": "A produção de matéria-prima e o consumo fazem parte do processo econômico, mas a contradição central apontada é a degradação ambiental e a desigualdade."
+      },
+      {
+        "alternativa": "E",
+        "correta": false,
+        "justificativa": "As formas de vida e a realidade física do planeta coexistem; o problema reside na forma como a sociedade se organiza e interfere no ambiente."
+      }
+    ]
+  },
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-05-13T00:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "Questão aborda a relação entre sociedade, produção e impactos ambientais.",
+      "Habilidade H27 da matriz de Ciências Humanas contempla a análise crítica das interações da sociedade com o meio físico."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2014",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Luis Miguel de Oliveira Paranhos",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

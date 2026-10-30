@@ -1,0 +1,11 @@
+QUESTÃO 51
+
+A elevada acidez dos solos é um dos fatores responsáveis por reduzir sua capacidade de troca de cátions, intensificando a perda de sais minerais por arraste. Como consequência, os solos ficam deficientes em nutrientes e com baixo potencial produtivo. Uma estratégia usada no controle dessa acidez é aplicar óxidos capazes de formar bases pouco solúveis em meio aquoso. Inicialmente, para uma determinada aplicação, são apresentados os seguintes óxidos: $\text{NO}$, $\text{CO}_2$, $\text{SO}_2$, $\text{CaO}$ e $\text{Na}_2\text{O}$.
+
+Para essa aplicação, o óxido adequado para minimizar o efeito de arraste é o
+
+A $\text{NO}$.
+B $\text{CO}_2$.
+C $\text{SO}_2$.
+D $\text{CaO}$.
+E $\text{Na}_2\text{O}$.

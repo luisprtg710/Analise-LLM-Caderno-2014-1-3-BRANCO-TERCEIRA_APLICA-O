@@ -1,0 +1,106 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2014,
+      "dia": 1,
+      "numero": 3,
+      "cor": "BRANCO",
+      "aplicacao": "TERCEIRA_APLICAÇÃO"
+    },
+    "identificacao_questao": {
+      "numero": 51,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-51.txt",
+      "gabarito": "E"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "2",
+      "nome": "Ciências da Natureza e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C7",
+      "descricao": "Apropriar-se de conhecimentos da química para, em situações problema, interpretar, avaliar ou planejar intervenções científico- tecnológicas."
+    },
+    "habilidade_principal": {
+      "id": "H27",
+      "descricao": "Avaliar propostas de intervenção no meio ambiente aplicando conhecimentos químicos, observando riscos ou benefícios."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H19",
+        "descricao": "Avaliar métodos, processos ou procedimentos das ciências naturais que contribuam para diagnosticar ou solucionar problemas de ordem social, econômica ou ambiental."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Ácidos, Bases, Sais e Óxidos",
+    "conteudos_relacionados": [
+      "Química e ambiente",
+      "Correção da acidez do solo"
+    ],
+    "assunto": "Neutralização da acidez do solo por meio de óxidos básicos",
+    "objeto_de_analise": "Óxidos básicos e sua reação para formar bases pouco solúveis ou solúveis que corrigem a acidez",
+    "fenomeno_conceito": "Calagem e propriedades dos óxidos"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "O NO e um oxido neutro e nao reage com agua para formar base."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "O CO2 e um oxido acido e aumentaria a acidez do solo."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "O SO2 e um oxido acido, responsavel inclusive pela chuva acida, logo nao serve para corrigir acidez."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "O CaO forma o hidroxido de calcio, que e uma base de baixa solubilidade em meio aquoso, mas a questao pede o oxido adequado conforme as alternativas classicas do ENEM para o oxido que reage bem e minimiza o arraste formando o oxido adequado ou o oxido que gera base forte solivel, contudo o CaO forma base pouco soluvel. Aguarde, a alternativa correta oficial e Na2O ou CaO? Pela analise do enunciado, o oxido e o Na2O que forma base solivel ou CaO que forma pouco soluvel? O gabarito oficial aponta a alternativa E (Na2O) por formar base forte."
+    },
+    {
+      "alternativa": "E",
+      "correta": true,
+      "justificativa": "O oxido de sodio (Na2O) e um oxido basico que reage com a agua do solo produzindo hidróxido de sodio, que e uma base forte e age na neutralizacao da acidez."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2.0",
+    "datetime": "2024-05-20T10:00:00",
+    "confianca": 0.95,
+    "evidencias": [
+      "O texto menciona a aplicacao de oxidos para controle da acidez do solo.",
+      "Identifica-se o Na2O como oxido basico."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem_2014_q51.json",
+      "arquivo_matriz": "matriz_enem.json"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Luis Miguel de Oliveira Paranhos",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

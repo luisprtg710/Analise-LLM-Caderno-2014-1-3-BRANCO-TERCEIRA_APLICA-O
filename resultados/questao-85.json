@@ -1,0 +1,106 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2014,
+      "dia": 1,
+      "numero": 3,
+      "cor": "BRANCO",
+      "aplicacao": "TERCEIRA_APLICAÇÃO"
+    },
+    "identificacao_questao": {
+      "numero": 85,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-85.txt",
+      "gabarito": "B"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CN",
+      "nome": "Ciências da Natureza e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C3",
+      "descricao": "Associar intervenções que resultam em degradação ou conservação ambiental a processos produtivos e sociais e a instrumentos ou ações científico-tecnológicos."
+    },
+    "habilidade_principal": {
+      "id": "H10",
+      "descricao": "Analisar perturbações ambientais, identificando fontes, transporte e(ou) destino dos poluentes ou prevendo efeitos em sistemas naturais, produtivos ou sociais."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H12",
+        "descricao": "Avaliar impactos em ambientes naturais decorrentes de atividades sociais ou econômicas, considerando interesses contraditórios."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Impactos ambientais de combustíveis fósseis",
+    "conteudos_relacionados": [
+      "Poluição e tratamento de água",
+      "Conservação e recuperação de ecossistemas"
+    ],
+    "assunto": "Vazamento de petróleo em alto-mar e técnicas de dispersão",
+    "objeto_de_analise": "O mecanismo de ação dos jatos de água ou areia na remoção de petróleo e seu risco de contaminação",
+    "fenomeno_conceito": "Contaminação do solo marítimo por deslocamento físico de poluentes"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "A alternativa descreve um processo de arraste de praia que não é o foco do impacto direto causado pelos jatos de dispersão mecânica descritos no texto."
+    },
+    {
+      "alternativa": "B",
+      "correta": true,
+      "justificativa": "Os jatos de água ou de areia utilizados para dissociar a mancha de petróleo na superfície podem acabar empurrando o poluente para o fundo do mar, provocando a contaminação do solo marítimo."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "O petróleo não se dilui na água salgada e não afunda por ser mais denso que a água (o petróleo é menos denso que a água e flutua)."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "A circulação da água citada não é o fator mecânico direto principal gerado pela ação dos jatos de alta pressão descritos para empurrar o óleo para o fundo."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "O petróleo não se dilui na água e os processos de convecção não são a causa primária da ação dos jatos mecânicos de dispersão."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T00:00:00Z",
+    "confianca": 0.98,
+    "evidencias": [
+      "A questão aborda o impacto ambiental de técnicas de dispersão mecânica de petróleo.",
+      "A habilidade H10 de Ciências da Natureza trata de analisar perturbações ambientais, identificando o destino de poluentes."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2014",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Luis Miguel de Oliveira Paranhos",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

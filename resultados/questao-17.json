@@ -1,0 +1,105 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2014,
+      "dia": 1,
+      "numero": 3,
+      "cor": "BRANCO",
+      "aplicacao": "TERCEIRA_APLICAÇÃO"
+    },
+    "identificacao_questao": {
+      "numero": 17,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-17.txt",
+      "gabarito": "D"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C4",
+      "descricao": "Entender as transformações técnicas e tecnológicas e seu impacto nos processos de produção, no desenvolvimento do conhecimento e na vida social."
+    },
+    "habilidade_principal": {
+      "id": "H16",
+      "descricao": "Identificar registros sobre o papel das técnicas e tecnologias na organização do trabalho e/ou da vida social."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H17",
+        "descricao": "Analisar fatores que explicam o impacto das novas tecnologias no processo de territorialização da produção."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Impacto das novas tecnologias no mundo do trabalho",
+    "conteudos_relacionados": [
+      "Globalização e novas tecnologias de telecomunicação"
+    ],
+    "assunto": "Uso de redes sociais e sites para contratação",
+    "objeto_de_analise": "Relação entre inovação tecnológica e processos de recrutamento",
+    "fenomeno_conceito": "Transformação digital no mercado de trabalho"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "analise": "Embora a internet seja um meio tecnológico, a alternativa não aborda diretamente a questão principal sobre a expansão dos postos de trabalho e qualificação exigida no contexto apresentado."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "analise": "O texto não enfatiza a redução de custos como o fator principal para a mudança no processo de seleção, mas sim o uso disseminado de sites e redes sociais."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "analise": "A urgência de ocupação não é o tema central tratado pelos dados da pesquisa sobre o uso de redes sociais por empregadores."
+    },
+    {
+      "alternativa": "D",
+      "correta": true,
+      "analise": "A forma de inserção no mundo do trabalho reflete as transformações tecnológicas e a expansão de postos de trabalho que exigem novas dinâmicas de recrutamento e seleção."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "analise": "A pesquisa aponta o uso por parte dos empregadores (empresas), e não um perfil exigido dos candidatos em termos de pleno domínio, focando na dinâmica empresarial."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T10:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "A questão aborda o uso de sites e redes sociais pelas empresas para contratação.",
+      "Conecta-se diretamente com a competência 4 de Ciências Humanas, focada nas transformações técnicas e tecnológicas e seu impacto na vida social e no trabalho."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2014",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Luis Miguel de Oliveira Paranhos",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

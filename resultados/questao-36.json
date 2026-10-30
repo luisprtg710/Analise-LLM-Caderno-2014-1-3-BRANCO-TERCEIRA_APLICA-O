@@ -1,0 +1,105 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2014,
+      "dia": 1,
+      "numero": 3,
+      "cor": "BRANCO",
+      "aplicacao": "TERCEIRA_APLICAÇÃO"
+    },
+    "identificacao_questao": {
+      "numero": 36,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-36.txt",
+      "gabarito": "E"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C4",
+      "descricao": "Entender as transformações técnicas e tecnológicas e seu impacto nos processos de produção, no desenvolvimento do conhecimento e na vida social."
+    },
+    "habilidade_principal": {
+      "id": "H17",
+      "descricao": "Analisar fatores que explicam o impacto das novas tecnologias no processo de territorialização da produção."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H16",
+        "descricao": "Identificar registros sobre o papel das técnicas e tecnologias na organização do trabalho e/ou da vida social."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Modernização da agricultura e estruturas agrárias tradicionais",
+    "conteudos_relacionados": [
+      "A globalização e as novas tecnologias de telecomunicação e suas consequências econômicas, políticas e sociais."
+    ],
+    "assunto": "Revolução Verde e Biotecnologia",
+    "objeto_de_analise": "Impactos socioeconômicos e políticos da introdução de tecnologias no mundo rural",
+    "fenomeno_conceito": "Monopólio técnico-produtivo e patentes na agricultura"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": true,
+      "analise": "O texto aponta que o aumento do componente técnico-científico eleva o poder das indústrias de alta tecnologia na normatização e nos processos produtivos, refletindo a formação de monopólios associados a patentes de sementes e insumos."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "analise": "A Revolução Verde não teve como foco central uma proposta de transformação social com caráter igualitário ou emancipatório, mas sim a mercantilização e industrialização do campo."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "analise": "O foco das tecnologias avançadas e da biotecnologia esteve voltado para o agronegócio e grandes produtores, muitas vezes marginalizando o pequeno agricultor, e não na segurança alimentar de base camponesa."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "analise": "A Revolução Verde gerou severos impactos ambientais negativos (como esgotamento do solo, contaminação por agrotóxicos e perda de biodiversidade), não tendo como objetivo atenuar tais problemas."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "analise": "O processo de introdução de tecnologias de ponta foi guiado por interesses corporativos e industriais, e não por uma ação educacional pública voltada para a capacitação emancipatória dos trabalhadores rurais."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "GPT-4",
+    "versao": "1.0",
+    "datetime": "2024-05-20T10:00:00",
+    "confianca": 0.95,
+    "evidencias": [
+      "A questão aborda os impactos políticos e econômicos da Revolução Verde e biotecnologia no campo.",
+      "O gabarito oficial da questão 36 do ENEM 2014 é a alternativa A."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2014",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Luis Miguel de Oliveira Paranhos",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

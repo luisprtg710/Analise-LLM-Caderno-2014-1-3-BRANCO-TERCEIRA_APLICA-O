@@ -1,0 +1,107 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2014,
+      "dia": 1,
+      "numero": 3,
+      "cor": "BRANCO",
+      "aplicacao": "TERCEIRA_APLICAÇÃO"
+    },
+    "identificacao_questao": {
+      "numero": 10,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-10.txt",
+      "gabarito": "D"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": null,
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C3",
+      "descricao": "Compreender a produção e o papel histórico das instituições sociais, políticas e econômicas, associando-as aos diferentes grupos, conflitos e movimentos sociais."
+    },
+    "habilidade_principal": {
+      "id": "H14",
+      "descricao": "Comparar diferentes pontos de vista, presentes em textos analíticos e interpretativos, sobre situação ou fatos de natureza histórico-geográfica acerca das instituições sociais, políticas e econômicas."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H7",
+        "descricao": "Identificar os significados histórico-geográficos das relações de poder entre as nações"
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Pensamento político moderno",
+    "conteudos_relacionados": [
+      "Maquiavel",
+      "O Príncipe",
+      "Manutenção do poder"
+    ],
+    "assunto": "Filosofia Política",
+    "objeto_de_analise": "Trecho da obra O Príncipe de Nicolau Maquiavel",
+    "fenomeno_conceito": "Estratégias de conquista e manutenção do poder político"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "O texto não fala sobre transferir inimigos da metrópole, mas sim de enviar novos habitantes (colonizadores) para terras conquistadas."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "O trecho aborda a criação de colônias e posse de terras, não a substituição direta de leis e impostos."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "Maquiavel aponta que as colônias dispensam grandes gastos com forças de armas e que os prejudicados perdem terras para os novos habitantes, não armando a população subjugada."
+    },
+    {
+      "alternativa": "D",
+      "correta": true,
+      "justificativa": "A alternativa aponta corretamente que a fundação de colônias implica a migração populacional para o território conquistado como forma de fixar o poder e ocupar a região."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "As terras são retiradas da minoria prejudicada para serem dadas aos novos habitantes (colonos), e não para a parcela do povo dominado que possui maior poder político."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-27T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "Análise do enunciado e do texto de Maquiavel",
+      "Compatibilidade com a Matriz do ENEM em Ciências Humanas"
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2014",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Luis Miguel de Oliveira Paranhos",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2014,
+      "dia": 1,
+      "numero": 3,
+      "cor": "BRANCO",
+      "aplicacao": "TERCEIRA_APLICAÇÃO"
+    },
+    "identificacao_questao": {
+      "numero": 54,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-54.txt",
+      "gabarito": "C"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CN",
+      "nome": "Ciências da Natureza e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C3",
+      "descricao": "Associar intervenções que resultam em degradação ou conservação ambiental a processos produtivos e sociais e a instrumentos ou ações científico-tecnológicos."
+    },
+    "habilidade_principal": {
+      "id": "H10",
+      "descricao": "Analisar perturbações ambientais, identificando fontes, transporte e(ou) destino dos poluentes ou prevendo efeitos em sistemas naturais, produtivos ou sociais."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H27",
+        "descricao": "Avaliar propostas de intervenção no meio ambiente aplicando conhecimentos químicos, observando riscos ou benefícios."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Química ambiental",
+    "conteudos_relacionados": [
+      "Poluição atmosférica",
+      "Ciclo da água"
+    ],
+    "assunto": "Chuva ácida",
+    "objeto_de_analise": "Efeitos da poluição atmosférica sobre a precipitação",
+    "fenomeno_conceito": "Formação de ácidos a partir de óxidos de enxofre e nitrogênio na atmosfera"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": true,
+      "justificativa": "O texto descreve a contaminação da água da chuva por óxidos de enxofre e nitrogênio emitidos por poluentes atmosféricos, o que caracteriza o fenômeno da chuva ácida."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "A poluição do ar é a causa dos óxidos, mas o texto foca na consequência da precipitação contaminada."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "O aquecimento global está relacionado ao acúmulo de gases de efeito estufa, e não diretamente à precipitação de ácidos descrita no texto."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "A destruição da camada de ozônio é causada principalmente por compostos como os CFCs, e não pelos óxidos sulfuroso e nitroso na precipitação."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "A eutrofização refere-se ao excesso de nutrientes em corpos hídricos, o que difere da contaminação ácida descrita."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-05-20T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "O enunciado cita óxidos sulfuroso e nitroso reagindo com a água da chuva.",
+      "A questão aborda diretamente o conceito de chuva ácida presente na matriz de Ciências da Natureza."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem_2014_54.txt",
+      "arquivo_matriz": "matriz_enem.json"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Luis Miguel de Oliveira Paranhos",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

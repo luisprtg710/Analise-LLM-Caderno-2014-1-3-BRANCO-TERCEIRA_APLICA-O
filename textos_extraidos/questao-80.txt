@@ -1,0 +1,13 @@
+QUESTÃO 80
+
+Uma das possíveis alternativas para a substituição da gasolina como combustível de automóveis é a utilização do gás hidrogênio, que, ao reagir com o gás oxigênio, em condições adequadas, libera energia necessária para o funcionamento do motor, conforme a equação química a seguir:
+
+$$2\text{ H}_2\text{(g)} + \text{O}_2\text{(g)} \longrightarrow 2\text{ H}_2\text{O}\text{(g)} + \text{energia}$$
+
+Esta opção para a substituição da gasolina contribuiria para que a condição do meio ambiente seja melhorada, visto que
+
+A o calor gerado pela reação intensificará o aquecimento global.
+B aumentará a quantidade de gases causadores do aquecimento global.
+C a emissão de gases causadores do aquecimento global permanecerá inalterada.
+D ocorrerá a diminuição da emissão de um dos gases causadores do aquecimento global.
+E os gases liberados na reação podem neutralizar aqueles responsáveis pelo aquecimento global.

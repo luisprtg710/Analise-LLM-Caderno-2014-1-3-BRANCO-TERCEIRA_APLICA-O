@@ -1,0 +1,100 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2014,
+      "dia": 1,
+      "numero": 3,
+      "cor": "BRANCO",
+      "aplicacao": "TERCEIRA_APLICAÇÃO"
+    },
+    "identificacao_questao": {
+      "numero": 9,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-9.txt",
+      "gabarito": "C"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C3",
+      "descricao": "Compreender a produção e o papel histórico das instituições sociais, políticas e econômicas, associando-as aos diferentes grupos, conflitos e movimentos sociais."
+    },
+    "habilidade_principal": {
+      "id": "H11",
+      "descricao": "Identificar registros de práticas de grupos sociais no tempo e no espaço."
+    },
+    "habilidades_relacionadas": [],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "História do Brasil",
+    "conteudos_relacionados": [
+      "Era Populista",
+      "Governo Juscelino Kubitschek"
+    ],
+    "assunto": "Governo Juscelino Kubitschek e o desenvolvimentismo",
+    "objeto_de_analise": "Critíticas ao governo JK e a política de atração de capital estrangeiro",
+    "fenomeno_conceito": "Nacionalismo versus desenvolvimentismo associado ao capital estrangeiro"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "analise": "Incorreta. A crítica de entreguista não estava relacionada ao incentivo à agricultura."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "analise": "Incorreta. A construção de Brasília era vista como símbolo de modernidade e nacionalismo, não de entreguismo."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "analise": "Incorreta. O governo incentivou a instalação de indústrias e a importação de bens de capital e matérias-primas, não houve redução planejada."
+    },
+    {
+      "alternativa": "D",
+      "correta": true,
+      "analise": "Correta. O Plano de Metas de JK promoveu a entrada massiva de capital estrangeiro e de multinacionais, o que gerava críticas da oposição nacionalista que o rotulava de entreguista."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "analise": "Incorreta. Embora houvesse problemas sociais, a pecha de entreguista estava diretamente ligada à abertura econômica ao capital externo."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "A questão aborda o governo de Juscelino Kubitschek e as críticas recebidas pelos opositores, especificamente o rótulo de entreguista devido ao Plano de Metas e a abertura ao capital internacional."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2014",
+      "arquivo_matriz": "INEP"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Luis Miguel de Oliveira Paranhos",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

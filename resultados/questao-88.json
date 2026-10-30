@@ -1,0 +1,107 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2014,
+      "dia": 1,
+      "numero": 3,
+      "cor": "BRANCO",
+      "aplicacao": "TERCEIRA_APLICAÇÃO"
+    },
+    "identificacao_questao": {
+      "numero": 88,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-88.txt",
+      "gabarito": "A"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CN",
+      "nome": "Ciências da Natureza e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C3",
+      "descricao": "Associar intervenções que resultam em degradação ou conservação ambiental a processos produtivos e sociais e a instrumentos ou ações científico-tecnológicos."
+    },
+    "habilidade_principal": {
+      "id": "H8",
+      "descricao": "Identificar etapas em processos de obtenção, transformação, utilização ou reciclagem de recursos naturais, energéticos ou matérias-primas, considerando processos biológicos, químicos ou físicos neles envolvidos."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H10",
+        "descricao": "Analisar perturbações ambientais, identificando fontes, transporte e(ou) destino dos poluentes ou prevendo efeitos em sistemas naturais, produtivos ou sociais."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Biocombustíveis e Combustíveis Fósseis",
+    "conteudos_relacionados": [
+      "Ciclo do carbono",
+      "Efeito estufa",
+      "Aquecimento global"
+    ],
+    "assunto": "Impactos ambientais e energéticos dos combustíveis",
+    "objeto_de_analise": "Justificativa para o uso de biocombustíveis em substituição aos fósseis no combate ao aquecimento global",
+    "fenomeno_conceito": "Equilíbrio do ciclo do carbono na queima de biomassa versus emissão líquida de combustíveis fósseis"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": true,
+      "justificativa": "A alternativa correta segundo o gabarito oficial é a A, mas a análise conceitual aponta que o correto seria a E. O ENEM considerou a alternativa A baseando-se na premissa oficial de que os biocombustíveis neutralizam as emissões por estarem inseridos no ciclo curto do carbono."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "Incorreta porque a quantidade de dióxido de carbono liberada na queima direta de um biocombustível pode ser comparável ou até superior à de alguns combustíveis fósseis refinados; a vantagem reside no balanço líquido nulo."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "Incorreta porque o uso de biocombustíveis também resulta na emissão de poluentes atmosféricos, como monóxido de carbono, óxidos de nitrogênio e material particulado."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "Embora verdadeira do ponto de vista da renovabilidade, não é a justificativa central relacionada ao combate ao aquecimento global e ao dióxido de carbono mencionado no texto base."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "Conceitualmente seria a resposta ideal, pois o carbono liberado pelo biocombustível foi recentemente fixado da atmosfera pela fotossíntese, tornando o balanço neutro, mas o gabarito oficial do ENEM indicou a alternativa A."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T10:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "Questão clássica do ENEM 2014 sobre fontes de energia e ciclo do carbono.",
+      "Associação direta com a matriz de Ciências da Natureza, competência 3, habilidade 8."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2014",
+      "arquivo_matriz": "Matriz ENEM oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Luis Miguel de Oliveira Paranhos",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

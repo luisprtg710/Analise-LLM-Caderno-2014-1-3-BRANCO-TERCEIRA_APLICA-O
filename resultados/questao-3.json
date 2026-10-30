@@ -1,0 +1,106 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2014,
+      "dia": 1,
+      "numero": 3,
+      "cor": "BRANCO",
+      "aplicacao": "TERCEIRA_APLICAÇÃO"
+    },
+    "identificacao_questao": {
+      "numero": 3,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-3.txt",
+      "gabarito": "A"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C2",
+      "descricao": "Compreender as transformações dos espaços geográficos como produto das relações socioeconômicas e culturais de poder."
+    },
+    "habilidade_principal": {
+      "id": "H6",
+      "descricao": "Interpretar diferentes representações gráficas e cartográficas dos espaços geográficos."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H1",
+        "descricao": "Interpretar historicamente e/ou geograficamente fontes documentais acerca de aspectos da cultura."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Geografia Humanística e Epistemologia da Geografia",
+    "conteudos_relacionados": [
+      "Espaço geográfico",
+      "Paisagem"
+    ],
+    "assunto": "A concepção humanística do espaço geográfico",
+    "objeto_de_analise": "O trecho de Yi-Fu Tuan sobre fatos geográficos, sentimentos e teorias",
+    "fenomeno_conceito": "Dimensão simbólica e subjetiva do espaço geográfico"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": true,
+      "justificativa": "A alternativa sintetiza corretamente a proposta da Geografia Humanística apresentada no texto, que integra os elementos físicos, sociais e a dimensão simbólica (sentimentos e conceitos) na produção e compreensão das paisagens."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "Reduz a análise geográfica aos aspectos físicos e à pluralidade conceitual, ignorando a totalidade dos fatores simbólicos apontados no texto."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "Foca apenas na dimensão simbólica e nos sentimentos, desconsiderando a articulação ampla entre os fatores físicos, sociais e culturais mencionada no enunciado."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "Restringe a apreensão do espaço geográfico aos aspectos físicos da paisagem, o que contradiz a perspectiva humanística trazida por Yi-Fu Tuan."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "Foca exclusivamente nos elementos simbólicos apreendidos por teorias e conceitos, deixando de lado a integração com os fatos materiais, sociais e físicos."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "1.0",
+    "datetime": "2024-05-01T00:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "Questão aborda conceitos de Geografia Humanística (Yi-Fu Tuan).",
+      "Envolve a leitura e interpretação de texto teórico sobre a construção do espaço geográfico."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2014",
+      "arquivo_matriz": "Matriz ENEM oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Luis Miguel de Oliveira Paranhos",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

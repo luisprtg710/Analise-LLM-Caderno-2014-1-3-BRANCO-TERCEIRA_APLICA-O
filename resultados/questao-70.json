@@ -1,0 +1,100 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2014,
+      "dia": 1,
+      "numero": 3,
+      "cor": "BRANCO",
+      "aplicacao": "TERCEIRA_APLICAÇÃO"
+    },
+    "identificacao_questao": {
+      "numero": 70,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-70.txt",
+      "gabarito": "B"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CN",
+      "nome": "Ciências da Natureza e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C8",
+      "descricao": "Apropriar-se de conhecimentos da biologia para, em situações problema, interpretar, avaliar ou planejar intervenções científico- tecnológicas."
+    },
+    "habilidade_principal": {
+      "id": "H28",
+      "descricao": "Associar características adaptativas dos organismos com seu modo de vida ou com seus limites de distribuição em diferentes ambientes, em especial em ambientes brasileiros."
+    },
+    "habilidades_relacionadas": [],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Biologia",
+    "conteudos_relacionados": [
+      "Ecologia"
+    ],
+    "assunto": "Adaptações vegetais em manguezais",
+    "objeto_de_analise": "Pneumatóforos",
+    "fenomeno_conceito": "Respiração vegetal em solos alagados"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "Os pneumatóforos não estão relacionados à eliminação de água, mas sim às trocas gasosas."
+    },
+    {
+      "alternativa": "B",
+      "correta": true,
+      "justificativa": "Os pneumatóforos são raízes respiratórias que crescem verticalmente para cima, permitindo a captação de oxigênio do ar em solos lodosos e pobres em oxigênio."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "A captação de CO2 ocorre principalmente através dos estômatos nas folhas durante a fotossíntese."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "A absorção de nutrientes é função primária das raízes sugadoras ou absorventes comuns, não sendo a principal função dos pneumatóforos."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "Embora ajudem na sustentação, a principal adaptação evolutiva dessas raízes em solo lodoso é a respiração."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "A questão aborda a adaptação de plantas de mangue (pneumatóforos) para a respiração em solos alagados.",
+      "A habilidade H28 da matriz de Biologia trata exatamente de associar características adaptativas ao modo de vida dos organismos."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2014",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Luis Miguel de Oliveira Paranhos",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

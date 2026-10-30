@@ -1,0 +1,106 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2014,
+      "dia": 1,
+      "numero": 3,
+      "cor": "BRANCO",
+      "aplicacao": "TERCEIRA_APLICAÇÃO"
+    },
+    "identificacao_questao": {
+      "numero": 15,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-15.txt",
+      "gabarito": "A"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C3",
+      "descricao": "Compreender a produção e o papel histórico das instituições sociais, políticas e econômicas, associando-as aos diferentes grupos, conflitos e movimentos sociais."
+    },
+    "habilidade_principal": {
+      "id": "H11",
+      "descricao": "Identificar registros de práticas de grupos sociais no tempo e no espaço."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H13",
+        "descricao": "Analisar a atuação dos movimentos sociais que contribuíram para mudanças ou rupturas em processos de disputa pelo poder."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Independência do Brasil",
+    "conteudos_relacionados": [
+      "Participação popular",
+      "Mulheres na história do Brasil"
+    ],
+    "assunto": "Processo de independência e participação social",
+    "objeto_de_analise": "Relato de Maria Quitéria sobre a Guerra da Independência na Bahia",
+    "fenomeno_conceito": "Emancipação política com participação de diversos segmentos sociais"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "Incorreta, pois o texto evidencia a participação de milícias populares e voluntários, e não apenas de um exército profissional nos moldes tradicionais."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "Incorreta, pois o texto relata conflitos armados reais na Bahia, distanciando-se de acordos meramente políticos."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "Incorreta, pois os combates descritos ocorreram na Bahia contra tropas portuguesas, e não no Sul do país."
+    },
+    {
+      "alternativa": "D",
+      "correta": true,
+      "justificativa": "Correta, pois o relato de Maria Quitéria, mulher e integrante de tropas voluntárias, demonstra que o processo de independência contou com a participação de diferentes segmentos sociais e não apenas das elites ou da figura central de D. Pedro I."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "Incorreta, pois a luta era contra os portugueses defensores do reino, mas a formação cultural e social do país manteve fortes laços com a herança portuguesa."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T00:00:00Z",
+    "confianca": 0.98,
+    "evidencias": [
+      "O texto da questão aborda a participação de Maria Quitéria na Guerra da Independência na Bahia.",
+      "A questão exige a compreensão de que a independência não se restringiu ao Grito do Ipiranga, mas envolveu conflitos e a participação de diversos grupos sociais."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2014",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Luis Miguel de Oliveira Paranhos",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

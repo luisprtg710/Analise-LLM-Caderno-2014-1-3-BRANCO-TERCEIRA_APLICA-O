@@ -1,0 +1,104 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2014,
+      "dia": 1,
+      "numero": 3,
+      "cor": "BRANCO",
+      "aplicacao": "TERCEIRA_APLICAÇÃO"
+    },
+    "identificacao_questao": {
+      "numero": 21,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-21.txt",
+      "gabarito": "E"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": null,
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C5",
+      "descricao": "Utilizar os conhecimentos históricos para compreender e valorizar os fundamentos da cidadania e da democracia, favorecendo uma atuação consciente do indivíduo na sociedade."
+    },
+    "habilidade_principal": {
+      "id": "H21",
+      "descricao": "Identificar o papel dos meios de comunicação na construção da vida social."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H16",
+        "descricao": "Identificar registros sobre o papel das técnicas e tecnologias na organização do trabalho e/ou da vida social."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Diversidade cultural, conflitos e vida em sociedade",
+    "conteudos_relacionados": [
+      "Formas de organização social, movimentos sociais, pensamento político e ação do Estado"
+    ],
+    "assunto": "Consumo e Sociedade",
+    "objeto_de_analise": "O papel da publicidade e dos meios de comunicação na indução ao consumo por status",
+    "fenomeno_conceito": "Consumismo e Indústria Cultural"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "A publicidade e os meios de massa não promovem uma vida livre de ideologias, mas sim difundem os valores do consumo."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "O objetivo da publicidade massiva é induzir ao consumo imediato e acrítico, e não ao pensamento reflexivo."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "O texto aponta justamente para a busca por status e marcas, o que é fortemente baseado em modismos."
+    },
+    {
+      "alternativa": "D",
+      "correta": true,
+      "justificativa": "Os meios de comunicação atuam estimulando a compra de produtos por status e exclusividade, gerando uma atitude consumista massificadora."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "A compra baseada na etiqueta de um designer ou loja demonstra uma postura altamente preocupada com estilos e status."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "GPT-4",
+    "versao": "2024",
+    "datetime": "2024-05-20T10:00:00",
+    "confianca": 0.95,
+    "evidencias": [
+      "A questão aborda o papel dos meios de comunicação e da publicidade na indução ao consumo baseado em status."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem_2014_q21",
+      "arquivo_matriz": "matriz_enem"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Luis Miguel de Oliveira Paranhos",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

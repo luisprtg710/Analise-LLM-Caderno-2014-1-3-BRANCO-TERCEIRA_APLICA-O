@@ -1,0 +1,105 @@
+ {
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2014,
+      "dia": 1,
+      "numero": 3,
+      "cor": "BRANCO",
+      "aplicacao": "TERCEIRA_APLICAÇÃO"
+    },
+    "identificacao_questao": {
+      "numero": 1,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-1.txt",
+      "gabarito": "D"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C5",
+      "descricao": "Utilizar os conhecimentos históricos para compreender e valorizar os fundamentos da cidadania e da democracia, favorecendo uma atuação consciente do indivíduo na sociedade."
+    },
+    "habilidade_principal": {
+      "id": "H23",
+      "descricao": "Analisar a importância dos valores éticos na estruturação política das sociedades."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H1",
+        "descricao": "Interpretar historicamente e/ou geograficamente fontes documentais acerca de aspectos da cultura."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "História do Brasil",
+    "conteudos_relacionados": [
+      "Ditadura Militar no Brasil"
+    ],
+    "assunto": "Governo Médici",
+    "objeto_de_analise": "Charge de Ziraldo sobre o lema 'Ame-o ou deixe-o'",
+    "fenomeno_conceito": "Autoritarismo estatal e repressão política"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "corretude": false,
+      "justificativa": "A alternativa é incorreta, pois a expulsão e o exílio decorriam da repressão política e da perseguição aos opositores, e não da falta de amor à pátria."
+    },
+    {
+      "alternativa": "B",
+      "corretude": false,
+      "justificativa": "A alternativa está incorreta, pois o exílio não era uma escolha voluntária ou um caminho adotado pelos opositores, mas sim uma imposição decorrente da violência e da perseguição do Estado."
+    },
+    {
+      "alternativa": "C",
+      "corretude": false,
+      "justificativa": "A alternativa está incorreta, visto que o regime militar utilizava o ufanismo e o patriotismo como instrumentos centrais de sua propaganda ideológica."
+    },
+    {
+      "alternativa": "D",
+      "corretude": true,
+      "justificativa": "A alternativa é correta porque a charge evidencia a contradição entre o discurso ufanista e nacionalista do lema governamental e a realidade violenta, repressiva e autoritária da ditadura militar."
+    },
+    {
+      "alternativa": "E",
+      "corretude": false,
+      "justificativa": "A alternativa está incorreta, pois o foco da charge não é a passividade econômica ou social da população, mas sim a violência e a intolerância do Estado perante a oposição."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T00:00:00Z",
+    "confianca": 0.98,
+    "evidencias": [
+      "A questão aborda a interpretação de uma charge histórica sobre a Ditadura Militar no Brasil.",
+      "O tema central relaciona-se à contraposição entre a propaganda oficial do governo e a repressão política."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem_2014_q1",
+      "arquivo_matriz": "matriz_enem"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Luis Miguel de Oliveira Paranhos",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

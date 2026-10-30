@@ -1,0 +1,84 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2014,
+      "dia": 1,
+      "numero": 3,
+      "cor": "BRANCO",
+      "aplicacao": "TERCEIRA_APLICAÇÃO"
+    },
+    "identificacao_questao": {
+      "numero": 8,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-8.txt",
+      "gabarito": "B"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C3",
+      "descricao": "Compreender a produção e o papel histórico das instituições sociais, políticas e econômicas, associando-as aos diferentes grupos, conflitos e movimentos sociais."
+    },
+    "habilidade_principal": {
+      "id": "H14",
+      "descricao": "Comparar diferentes pontos de vista, presentes em textos analíticos e interpretativos, sobre situação ou fatos de natureza histórico-geográfica acerca das instituições sociais, políticas e econômicas."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H7",
+        "descricao": "Identificar os significados histórico-geográficos das relações de poder entre as nações"
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "História do Brasil",
+    "conteudos_relacionados": [
+      "História Geral",
+      "Relações Internacionais"
+    ],
+    "assunto": "Política Externa da Primeira República",
+    "objeto_de_analise": "A diplomacia do Barão do Rio Branco e as relações Brasil-Estados Unidos",
+    "fenomeno_conceito": "Diplomacia e Aliança não escrita",
+    "analise_alternativas": [],
+    "auditoria_da_ia": {
+      "modelo": "GPT-4",
+      "versao": "1.0",
+      "datetime": "2024-05-20T10:00:00",
+      "confianca": 0.95,
+      "evidencias": [
+        "O texto aborda os objetivos da diplomacia de Rio Branco e sua estratégia de aproximação com os Estados Unidos sem perder de vista os objetivos nacionais."
+      ],
+      "proveniencia": {
+        "arquivo_questao": "ENEM 2014",
+        "arquivo_matriz": "Matriz ENEM Oficial"
+      },
+      "validacao_humana": {
+        "validado": false,
+        "data_validacao": null
+      }
+    },
+    "estudante": {
+      "nome_completo": null,
+      "colegio": null,
+      "turma": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Luis Miguel de Oliveira Paranhos",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

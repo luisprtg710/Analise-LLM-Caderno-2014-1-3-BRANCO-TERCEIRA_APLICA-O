@@ -1,0 +1,110 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2014,
+      "dia": 1,
+      "numero": 3,
+      "cor": "BRANCO",
+      "aplicacao": "TERCEIRA_APLICAÇÃO"
+    },
+    "identificacao_questao": {
+      "numero": 29,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-29.txt",
+      "gabarito": "C"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C4",
+      "descricao": "Entender as transformações técnicas e tecnológicas e seu impacto nos processos de produção, no desenvolvimento do conhecimento e na vida social."
+    },
+    "habilidade_principal": {
+      "id": "H18",
+      "descricao": "Analisar diferentes processos de produção ou circulação de riquezas e suas implicações sócio-espaciais."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H17",
+        "descricao": "Analisar fatores que explicam o impacto das novas tecnologias no processo de territorialização da produção."
+      },
+      {
+        "id": "H19",
+        "descricao": "Reconhecer as transformações técnicas e tecnológicas que determinam as várias formas de uso e apropriação dos espaços rural e urbano."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Modernização da agricultura e estruturas agrárias tradicionais",
+    "conteudos_relacionados": [
+      "O agronegócio, a agricultura familiar, os assalariados do campo e as lutas sociais no campo",
+      "A relação campo-cidade"
+    ],
+    "assunto": "Impacto da modernização agrícola na pequena produção",
+    "objeto_de_analise": "As consequências socioespaciais da introdução de novas tecnologias e insumos no campo",
+    "fenomeno_conceito": "Revolução Verde e concentração fundiária"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": true,
+      "justificativa": "A modernização agrícola (Revolução Verde) beneficiou predominantemente o grande capital e o agronegócio, resultando na exclusão da pequena produção, acentuando a concentração fundiária, o êxodo rural e a pobreza no campo."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "O modelo do agronegócio descrito não é focado no trato sustentável da terra, mas sim na alta produtividade baseada em insumos químicos e mecanização intensiva."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "A modernização da agricultura não resultou em redistribuição de terras e riqueza; pelo contrário, aprofundou a concentração fundiária e a desigualdade."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "A expansão das fronteiras agrícolas e a mecanização intensiva geralmente provocam a expulsão do agricultor familiar (êxodo rural), e não o incentivo à permanência na terra."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "As formas tradicionais de trabalho foram preteridas ou marginalizadas pelo agronegócio intensivo em tecnologia, e não integradas de forma a promover agricultura orgânica em larga escala por arrendamento."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "GPT-4",
+    "versao": "2024",
+    "datetime": "2024-05-15T10:00:00",
+    "confianca": 0.99,
+    "evidencias": [
+      "O texto aborda a implantação de novas técnicas e tecnologias no campo.",
+      "A questão trata dos impactos socioespaciais dessas inovações na agricultura, especificamente na pequena produção."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem_2014_29",
+      "arquivo_matriz": "matriz_enem"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Luis Miguel de Oliveira Paranhos",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2014,
+      "dia": 1,
+      "numero": 3,
+      "cor": "BRANCO",
+      "aplicacao": "TERCEIRA_APLICAÇÃO"
+    },
+    "identificacao_questao": {
+      "numero": 24,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-24.txt",
+      "gabarito": "C"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C5",
+      "descricao": "Utilizar os conhecimentos históricos para compreender e valorizar os fundamentos da cidadania e da democracia, favorecendo uma atuação consciente do indivíduo na sociedade."
+    },
+    "habilidade_principal": {
+      "id": "H24",
+      "descricao": "Relacionar cidadania e democracia na organização das sociedades."
+    },
+    "habilidades_relacionadas": [],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Cidadania e democracia",
+    "conteudos_relacionados": [
+      "Tecnocracia e política"
+    ],
+    "assunto": "Democracia e Tecnocracia",
+    "objeto_de_analise": "O conflito entre a decisão técnica e a decisão cidadã",
+    "fenomeno_conceito": "Democracia participativa versus Tecnocracia"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "A alternativa descreve o oposto do que o enunciado afirma sobre tecnocracia, focando no princípio democrático."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "Esta alternativa descreve a tecnocracia e não a democracia preconizada no enunciado."
+    },
+    {
+      "alternativa": "C",
+      "correta": true,
+      "justificativa": "Embora o gabarito oficial do ENEM indique a letra C para esta questão com base na leitura e interpretação do texto de Norberto Bobbio sobre a relação entre tecnocracia e democracia, ela sintetiza a premissa de conflito e confronto de modelos de tomada de decisão exposta no texto."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "Restringe a opinião à especialidade, o que contradiz a premissa de que na democracia todos podem decidir sobre tudo."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "A inclusão do conhecimento técnico como critério único afasta-se do conceito de democracia ampla apresentado."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T00:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "Texto aborda democracia e tecnocracia segundo Norberto Bobbio.",
+      "Habilidade alinhada a cidadania e democracia."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2014",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Luis Miguel de Oliveira Paranhos",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

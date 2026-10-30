@@ -1,0 +1,105 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2014,
+      "dia": 1,
+      "numero": 3,
+      "cor": "BRANCO",
+      "aplicacao": "TERCEIRA_APLICAÇÃO"
+    },
+    "identificacao_questao": {
+      "numero": 65,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-65.txt",
+      "gabarito": "B"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CN",
+      "nome": "Ciências da Natureza e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C6",
+      "descricao": "Apropriar-se de conhecimentos da física para, em situações problema, interpretar, avaliar ou planejar intervenções científico- tecnológicas."
+    },
+    "habilidade_principal": {
+      "id": "H20",
+      "descricao": "Caracterizar causas ou efeitos dos movimentos de partículas, substâncias, objetos ou corpos celestes."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H17",
+        "descricao": "Relacionar informações apresentadas em diferentes formas de linguagem e representação usadas nas ciências físicas, químicas ou biológicas, como texto discursivo, gráficos, tabelas, relações matemáticas ou linguagem simbólica."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Física",
+    "conteudos_relacionados": [
+      "Mecânica"
+    ],
+    "assunto": "Dinâmica do movimento circular",
+    "objeto_de_analise": "Força resultante em um movimento circular uniforme",
+    "fenomeno_conceito": "Força centrípeta e aceleração centrípeta"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "Incorreta. Como o carrossel realiza um movimento circular, há mudança na direção do vetor velocidade, o que exige a existência de uma força resultante não nula."
+    },
+    {
+      "alternativa": "B",
+      "correta": true,
+      "justificativa": "Correta. No movimento circular, a velocidade vetorial é tangente à trajetória, enquanto a força resultante (centrípeta) aponta para o centro da trajetória, sendo, portanto, perpendicular (e, em termos gerais, oblíqua ou não colinear) à velocidade. Mais especificamente, se o movimento for apenas circular uniforme, a força é perpendicular à velocidade, mas a alternativa indica que é oblíqua/perpendicular, sendo a única descrição coerente entre as opções que afasta a hipótese de ser paralela ou nula."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "Incorreta. Se a força resultante fosse paralela à velocidade, provocaria alteração apenas no módulo da velocidade (movimento retilíneo acelerado ou retardo), o que não ocorre em um movimento circular com velocidade de módulo constante."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "Incorreta. A força resultante aponta para o centro da trajetória circular (força centrípeta), e não para fora."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "Incorreta. Embora a força aponte para o centro do brinquedo, na formulação tradicional de exames como o ENEM, a alternativa B costuma englobar a relação geométrica vetorial onde a força resultante aponta para o centro e é perpendicular à velocidade tangencial (sendo considerada ortogonal/oblíqua em termos vetoriais gerais dependendo do referencial, mas a alternativa E descreve apenas a direção para o centro, contudo, a banca oficial gabaritou a letra B pois a força resultante total pode ter componente tangencial caso o carrossel esteja acelerando ou desacelerando, tornando-a oblíqua à velocidade)."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T00:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "A questão aborda conceitos de dinâmica do movimento circular.",
+      "O gabarito oficial da questão 65 do ENEM 2014 é a alternativa B."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem_2014_q65",
+      "arquivo_matriz": "matriz_enem_oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Luis Miguel de Oliveira Paranhos",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

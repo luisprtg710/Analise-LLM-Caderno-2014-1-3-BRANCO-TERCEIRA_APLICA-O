@@ -1,0 +1,110 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2014,
+      "dia": 1,
+      "numero": 3,
+      "cor": "BRANCO",
+      "aplicacao": "TERCEIRA_APLICAÇÃO"
+    },
+    "identificacao_questao": {
+      "numero": 40,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-40.txt",
+      "gabarito": "B"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C5",
+      "descricao": "Utilizar os conhecimentos históricos para compreender e valorizar os fundamentos da cidadania e da democracia, favorecendo uma atuação consciente do indivíduo na sociedade."
+    },
+    "habilidade_principal": {
+      "id": "H22",
+      "descricao": "Analisar as lutas sociais e conquistas obtidas no que se refere às mudanças nas legislações ou nas políticas públicas."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H2",
+        "descricao": "Analisar a produção da memória pelas sociedades humanas."
+      },
+      {
+        "id": "H3",
+        "descricao": "Associar as manifestações culturais do presente aos seus processos históricos."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Ditadura Militar no Brasil",
+    "conteudos_relacionados": [
+      "Lei de Anistia de 1979",
+      "Memória e História"
+    ],
+    "assunto": "A Lei de Anistia e os debates sobre o passado ditatorial brasileiro",
+    "objeto_de_analise": "Diferentes visões historiográficas e políticas acerca do processo e do significado da Lei de Anistia.",
+    "fenomeno_conceito": "Anistia política, transição democrática e construção da memória nacional."
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "Os textos discutem a transição e a lei de anistia, sem propor a retomada da ditadura."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "Os fragmentos não tratam especificamente da luta armada ou da abertura de arquivos a partir dela."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "A relativização dos direitos humanos não é o foco principal das posições apresentadas sobre a anistia."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "A alternativa utiliza um viés ideológico inadequado (terrorismo esquerdista) que não corresponde ao eixo de debate dos textos."
+    },
+    {
+      "alternativa": "E",
+      "correta": true,
+      "justificativa": "Os textos apresentam duas leituras distintas sobre a Lei de Anistia (uma como concessão do regime e outra como conquista da luta popular), evidenciando uma reflexão crítica sobre o passado ditatorial a partir de diferentes perspectivas políticas."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T00:00:00Z",
+    "confianca": 0.98,
+    "evidencias": [
+      "O tema central aborda a Lei de Anistia e a memória da ditadura militar no Brasil.",
+      "A habilidade H22 da matriz de Ciências Humanas contempla a análise de lutas sociais e conquistas em relação a mudanças em legislações."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2014",
+      "arquivo_matriz": "INEP"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Luis Miguel de Oliveira Paranhos",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

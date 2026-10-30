@@ -1,0 +1,12 @@
+QUESTÃO 13
+
+Distribuição da população por sexo, segundo os grupos de idade BRASIL 2010
+
+**[FIGURA: Pirâmide etária do Brasil em 2010. No eixo vertical, estão dispostos os grupos de idade, divididos em intervalos de 5 anos, desde "0 a 4 anos" na base até "Mais de 100 anos" no topo. No eixo horizontal, há a representação percentual da população dividida em duas cores e direções a partir de um eixo central vertical: barras pretas à esquerda indicando os "Homens" e barras cinzas à direita indicando as "Mulheres". Os valores percentuais para cada faixa etária são: 0 a 4 anos: 3,7% homens, 3,6% mulheres; 5 a 9 anos: 4,0% homens, 3,9% mulheres; 10 a 14 anos: 4,6% homens, 4,4% mulheres; 15 a 19 anos: 4,5% homens, 4,4% mulheres; 20 a 24 anos: 4,5% homens, 4,5% mulheres; 25 a 29 anos: 4,4% homens, 4,5% mulheres; 30 a 34 anos: 4,0% homens, 4,2% mulheres; 35 a 39 anos: 3,5% homens, 3,7% mulheres; 40 a 44 anos: 3,3% homens, 3,5% mulheres; 45 a 49 anos: 3,0% homens, 3,2% mulheres; 50 a 54 anos: 2,5% homens, 2,8% mulheres; 55 a 59 anos: 2,0% homens, 2,3% mulheres; 60 a 64 anos: 1,6% homens, 1,8% mulheres; 65 a 69 anos: 1,2% homens, 1,4% mulheres; 70 a 74 anos: 0,9% homens, 1,1% mulheres; 75 a 79 anos: 0,6% homens, 0,8% mulheres; 80 a 84 anos: 0,4% homens, 0,5% mulheres; 85 a 89 anos: 0,2% homens, 0,3% mulheres; 90 a 94 anos: 0,1% homens, 0,1% mulheres; 95 a 99 anos: 0,0% homens, 0,0% mulheres; Mais de 100 anos: 0,0% homens, 0,0% mulheres. Nota de rodapé: IBGE. Disponível em: www.censo2010.ibge.gov.br. Acesso em: 23 jan. 2012.]**
+
+O gráfico obtido a partir das informações do Censo de 2010 é reflexo da dinâmica populacional do país e apresenta um(a)
+Ⓐ continuidade da dinâmica demográfica brasileira representada pelo alargamento de sua base e estreitamento do topo.
+Ⓑ elevação da população adulta, reflexo do *baby boom* nos anos 2000.
+Ⓒ divergência no crescimento quantitativo de homens e mulheres de 0 a 14 anos.
+Ⓓ decréscimo da população jovem e crescente alargamento da parte intermediária e do topo da pirâmide.
+E declínio da população idosa brasileira visualizada no topo da pirâmide.

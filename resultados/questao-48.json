@@ -1,0 +1,104 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2014,
+      "dia": 1,
+      "numero": 3,
+      "cor": "BRANCO",
+      "aplicacao": "TERCEIRA_APLICAÇÃO"
+    },
+    "identificacao_questao": {
+      "numero": 48,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-48.txt",
+      "gabarito": "A"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CN",
+      "nome": "Ciências da Natureza e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C7",
+      "descricao": "Apropriar-se de conhecimentos da química para, em situações problema, interpretar, avaliar ou planejar intervenções científico- tecnológicas."
+    },
+    "habilidade_principal": {
+      "id": "H24",
+      "descricao": "Utilizar códigos e nomenclatura da química para caracterizar materiais, substâncias ou transformações químicas."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H25",
+        "descricao": "Caracterizar materiais ou substâncias, identificando etapas, rendimentos ou implicações biológicas, sociais, econômicas ou ambientais de sua obtenção ou produção."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Química Orgânica",
+    "conteudos_relacionados": [
+      "Polímeros"
+    ],
+    "assunto": "Polímeros e Macromoléculas",
+    "objeto_de_analise": "Estrutura dos monômeros constituintes de polímeros sintéticos (poliamidas)",
+    "fenomeno_conceito": "Reação de polimerização e despolimerização (formação de poliamidas a partir de diaminas e diácidos carboxílicos)"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "Poliésteres são formados pela reação entre dióis e diácidos carboxílicos, gerando ligações éster, o que difere dos monômeros apresentados que contêm grupos amina."
+    },
+    {
+      "alternativa": "B",
+      "correta": true,
+      "justificativa": "A diamina H2N(CH2)6NH2 e o diácido HO2C(CH2)4CO2H são os monômeros que, por policondensação, dão origem à poliamida (como o náilon-6,6), contendo ligações amida caracterizadas pelo grupo funcional amida."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "O polietileno é um polímero de adição obtido a partir do eteno (etileno), não sendo formado por diaminas ou diácidos."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "Poliacrilatos são polímeros derivados de ácidos acrílicos ou seus sais e ésteres, não correspondendo aos reagentes descritos."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "O polipropileno é um polímero de adição derivado do propeno, não possuindo em sua estrutura grupos funcionais amida ou ácido carboxílico."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-25T10:00:00",
+    "confianca": 1.0,
+    "evidencias": [
+      "A diamina e o diácido carboxílico reagem formando ligações amida, caracterizando a poliamida."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem_2014_q48",
+      "arquivo_matriz": "matriz_enem"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Luis Miguel de Oliveira Paranhos",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

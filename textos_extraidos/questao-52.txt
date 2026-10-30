@@ -1,0 +1,11 @@
+QUESTÃO 52
+
+O entendimento de como as ligações químicas se formam é um dos assuntos fundamentais da ciência. A partir desses fundamentos, pode-se entender como são desenvolvidos novos materiais. Por exemplo, de acordo com a regra do octeto, na formação de uma ligação covalente, os átomos tendem a completar seus octetos pelo compartilhamento de elétrons (atingir configuração de gás nobre, $ns^2 np^6$). Porém, quando o átomo central de uma molécula tem orbitais $d$ vazios, ele pode acomodar 10, 12 ou até mais elétrons. Os elétrons desta camada de valência expandida podem estar como pares isolados ou podem ser usados pelo átomo central para formar ligações.
+
+A estrutura que representa uma molécula com o octeto expandido (exceção à regra do octeto) é
+
+A) $\text{BF}_3$.
+B) $\text{NH}_3$.
+C) $\text{PCl}_5$.
+D) $\text{BeH}_2$.
+E) $\text{AlI}_3$.

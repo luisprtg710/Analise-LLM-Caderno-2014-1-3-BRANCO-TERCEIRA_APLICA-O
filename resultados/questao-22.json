@@ -1,0 +1,105 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2014,
+      "dia": 1,
+      "numero": 3,
+      "cor": "BRANCO",
+      "aplicacao": "TERCEIRA_APLICAÇÃO"
+    },
+    "identificacao_questao": {
+      "numero": 22,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-22.txt",
+      "gabarito": "D"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C4",
+      "descricao": "Entender as transformações técnicas e tecnológicas e seu impacto nos processos de produção, no desenvolvimento do conhecimento e na vida social."
+    },
+    "habilidade_principal": {
+      "id": "H16",
+      "descricao": "Identificar registros sobre o papel das técnicas e tecnologias na organização do trabalho e/ou da vida social."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H18",
+        "descricao": "Analisar diferentes processos de produção ou circulação de riquezas e suas implicações sócio-espaciais."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Características e transformações das estruturas produtivas",
+    "conteudos_relacionados": [
+      "Globalização e novas tecnologias"
+    ],
+    "assunto": "Crise na zona do euro e impactos no mundo do trabalho",
+    "objeto_de_analise": "Reestruturação produtiva e flexibilização das leis trabalhistas",
+    "fenomeno_conceito": "Reestruturação produtiva"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": true,
+      "analise": "O texto aponta que as empresas buscam maior competitividade e corte de gastos com mão de obra, eliminando limites de jornada e endurecendo negociações, o que evidencia a necessidade de reestruturação empresarial para diminuir o custo produtivo."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "analise": "O fragmento não discute a transferência de recursos financeiros entre países, mas sim as mudanças nas relações de trabalho internas."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "analise": "O texto menciona o endurecimento nas negociações com os sindicatos para cortar gastos, e não uma atuação cooperativa para aprimorar a gestão do capital."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "analise": "O texto afirma exatamente o oposto: a França eliminou o limite de 35 horas semanais, ou seja, houve aumento ou flexibilização das horas, não diminuição."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "analise": "O texto foca na flexibilização da jornada e corte de custos de mão de obra e competitividade, sem citar investimentos em capacitação profissional."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T00:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "A questão aborda as transformações nas estruturas produtivas e no mundo do trabalho decorrentes da crise na zona do euro.",
+      "A habilidade H16 da matriz de Ciências Humanas encaixa-se perfeitamente na identificação de registros sobre a organização do trabalho."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2014",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Luis Miguel de Oliveira Paranhos",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

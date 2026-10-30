@@ -1,0 +1,78 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2014,
+      "dia": 1,
+      "numero": 3,
+      "cor": "BRANCO",
+      "aplicacao": "TERCEIRA_APLICAÇÃO"
+    },
+    "identificacao_questao": {
+      "numero": 41,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-41.txt",
+      "gabarito": "E"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "MT",
+      "nome": "Matemática e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C2",
+      "descricao": "Utilizar o conhecimento geométrico para realizar a leitura e a representação da realidade e agir sobre ela."
+    },
+    "habilidade_principal": {
+      "id": "H7",
+      "descricao": "Identificar características de figuras planas ou espaciais."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H8",
+        "descricao": "Resolver situação-problema que envolva conhecimentos geométricos de espaço e forma."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Conhecimentos geométricos",
+    "conteudos_relacionados": [
+      "Características das figuras geométricas espaciais"
+    ],
+    "assunto": "Geometria Espacial",
+    "objeto_de_analise": "Planificação de sólidos geométricos",
+    "fenomeno_conceito": "Identificação de vistas e planificações de poliedros"
+  },
+  "analise_alternativas": [],
+  "auditoria_da_ia": {
+    "modelo": "gemini-1.5-pro",
+    "versao": "1.0",
+    "datetime": "2024-05-18T00:00:00Z",
+    "confianca": 0.9,
+    "evidencias": [
+      "Questao padrao ENEM sobre geometria espacial e planificacao."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2014",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Luis Miguel de Oliveira Paranhos",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

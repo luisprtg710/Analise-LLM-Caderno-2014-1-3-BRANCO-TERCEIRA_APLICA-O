@@ -1,0 +1,15 @@
+QUESTÃO 74
+
+O gráfico apresenta a precipitação mensal acumulada no município de São Carlos, SP, ao longo do ano de 2008, contrastando com as médias mensais para o período de 1961 a 1990.
+
+[FIGURA: Gráfico misto (colunas e linhas) que representa a "Precipitação (mm)" no eixo vertical, variando de 0 a 300 com intervalos de 50, e os meses do ano no eixo horizontal, de 1/2008 a 12/2008. As barras cinzentas indicam a "Precipitação mensal acumulada" e a linha com marcadores pretos indica as "Médias climatológicas (1961-1990)". Os valores mensais para precipitação acumulada em 2008 são aproximadamente: Jan (~180), Fev (~200), Mar (~180), Abr (~90), Mai (~40), Jun (~50), Jul (~20), Ago (~50), Set (~40), Out (~80), Nov (~50), Dez (~180). A linha de médias climatológicas apresenta valores decrescentes de janeiro até julho (caindo de cerca de 250 para próximo de 25) e crescentes de agosto até dezembro (subindo de cerca de 25 para 250).]
+
+CHIBA, W.A.C. e col. Estudo sazonal da contaminação por metais na água e sedimentos em uma sub-bacia na região sudeste do Brasil. Brazilian Journal of Biology, nov. 2011.
+
+Considerando-se que a produção de agentes poluentes tem se mantido constante desde 1961 e que o escoamento pluvial seja a principal fonte de poluição dos rios da região, seria de se esperar que o volume de poluentes nos rios durante a primavera (setembro a dezembro) de 2008 fosse
+
+A progressivamente menor a cada mês.
+B semelhante à média histórica no verão.
+C acima da média de verão para o mesmo ano.
+D abaixo da média de inverno para o mesmo ano.
+E menor que a média histórica no mesmo período.

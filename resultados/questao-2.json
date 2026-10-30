@@ -1,0 +1,107 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2014,
+      "dia": 1,
+      "numero": 3,
+      "cor": "BRANCO",
+      "aplicacao": "TERCEIRA_APLICAÇÃO"
+    },
+    "identificacao_questao": {
+      "numero": 2,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-2.txt",
+      "gabarito": "D"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C1",
+      "descricao": "Compreender os elementos culturais que constituem as identidades"
+    },
+    "habilidade_principal": {
+      "id": "H2",
+      "descricao": "Analisar a produção da memória pelas sociedades humanas."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H1",
+        "descricao": "Interpretar historicamente e/ou geograficamente fontes documentais acerca de aspectos da cultura."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Regimes totalitários e controle da informação",
+    "conteudos_relacionados": [
+      "Distopias literárias",
+      "Memória e poder"
+    ],
+    "assunto": "Totalitarismo",
+    "objeto_de_analise": "O papel do Ministério da Verdade em 1984 de George Orwell",
+    "fenomeno_conceito": "Reescrita da história e controle da memória social"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "O texto descreve o controle ideológico através da linguagem e da informação, e não especificamente o enaltecimento do sentimento nacionalista."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "Embora o lema cite a guerra, a função do Ministério da Verdade é a manipulação de fatos históricos e informativos, não o investimento militar direto."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "O foco da instituição descrita é a manipulação da verdade institucional e documental, não a exaltação direta de uma figura carismática (o Grande Irmão é uma figura de vigilância, mas o Miniver atua sobre os fatos)."
+    },
+    {
+      "alternativa": "D",
+      "correta": true,
+      "justificativa": "O Ministério da Verdade em 1984 tem como principal função alterar registros históricos, jornais e documentos para moldar o passado de acordo com os interesses do Partido, promovendo a prática de reelaboração da memória."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "Regimes totalitários descritos na obra suprimem direitos e liberdades individuais e coletivas, não havendo valorização de direitos coletivos."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-06-01T00:00:00Z",
+    "confianca": 0.98,
+    "evidencias": [
+      "A questão aborda a obra 1984 de George Orwell.",
+      "O Ministério da Verdade atua modificando a história e a informação.",
+      "A habilidade H2 de Ciências Humanas trata exatamente de analisar a produção da memória pelas sociedades humanas."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2014",
+      "arquivo_matriz": "Matriz ENEM Oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Luis Miguel de Oliveira Paranhos",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

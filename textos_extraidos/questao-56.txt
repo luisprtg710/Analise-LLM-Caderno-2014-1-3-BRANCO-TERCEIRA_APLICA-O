@@ -1,0 +1,13 @@
+QUESTÃO 56
+
+Nos tempos atuais, grandes esforços são realizados para minimizar a dependência dos combustíveis derivados de fontes fósseis, buscando alternativas como compostos provenientes de fontes renováveis, biodegradáveis e que causem menos impacto na atmosfera terrestre. Um combustível renovável (X) de grande importância econômica é obtido a partir da equação genérica:
+
+$$\text{Sacarose} \longrightarrow \text{C}_6\text{H}_{12}\text{O}_6 \longrightarrow \text{X} + \text{CO}_2$$
+
+Com base na equação, o referido combustível renovável é o
+
+A) etanol.
+B) butano.
+C) propano.
+D) biodiesel.
+E) gás natural.

@@ -1,0 +1,15 @@
+QUESTÃO 49
+
+O fenômeno da levitação de corpos ocorre, na Terra, quando a força gravitacional é equilibrada, fazendo com que um objeto paire no ar. O som pode fazer objetos levitarem, fenômeno chamado de levitação acústica. Um levitador acústico deve conter um transdutor, que é uma superfície vibratória que emite o som, e um refletor. Ambos têm superfícies côncavas para focalizar o som, conforme a ilustração:
+
+[FIGURA: Diagrama esquemático de um levitador acústico. Na parte superior, há uma linha curva voltada para baixo, rotulada como "Refletor". Na parte inferior, há uma linha curva espelhada voltada para cima, rotulada como "Transdutor". Entre eles, no centro, há um círculo preto preenchido rotulado como "Objeto em levitação". À direita, uma seta vertical apontando para baixo indica a direção da "gravidade".]
+
+Disponível em: http://ciencia.hsw.uol.com.br. Acesso em: 28 fev.2012 (adaptado).
+
+Para que haja a levitação indicada na figura, a força que equilibra o peso do objeto deve ser decorrente da
+
+A ação mecânica direta do transdutor sobre o objeto.
+B ressonância que ocorre entre a onda sonora e o objeto.
+C pressão que o som emitido pelo transdutor aplica no objeto.
+D interferência destrutiva do som que anula o movimento do objeto.
+E diferença de pressão dos sons emitido e refletido aplicada no objeto.

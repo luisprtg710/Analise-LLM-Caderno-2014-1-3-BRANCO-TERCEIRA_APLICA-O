@@ -1,0 +1,106 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2014,
+      "dia": 1,
+      "numero": 3,
+      "cor": "BRANCO",
+      "aplicacao": "TERCEIRA_APLICAÇÃO"
+    },
+    "identificacao_questao": {
+      "numero": 16,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-16.txt",
+      "gabarito": "E"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C5",
+      "descricao": "Utilizar os conhecimentos históricos para compreender e valorizar os fundamentos da cidadania e da democracia, favorecendo uma atuação consciente do indivíduo na sociedade."
+    },
+    "habilidade_principal": {
+      "id": "H23",
+      "descricao": "Analisar a importância dos valores éticos na estruturação política das sociedades."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H24",
+        "descricao": "Relacionar cidadania e democracia na organização das sociedades."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Filosofia Política e Ética",
+    "conteudos_relacionados": [
+      "Moralidade e Legalidade",
+      "Justiça"
+    ],
+    "assunto": "Relação entre lei e moral",
+    "objeto_de_analise": "O conflito entre a legalidade instituída e os princípios éticos ou de justiça",
+    "fenomeno_conceito": "Diferença entre o que é legal e o que é justo ou moralmente aceitável"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "A legalidade laica refere-se à separação entre Estado e religião, o que não é o foco da discussão sobre a divergência entre moral e lei no texto."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "Se houvesse concordância entre lei e valores morais, leis e moralidade coincidiriam, o que contradiz a premissa de discordância abordada na questão."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "Embora algumas ações ilegais possam ser imorais, o texto trata especificamente da oposição estrutural ou discordância conceitual entre o campo da lei e o campo da moral/justiça."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "Apesar de leis injustas poderem existir quando há essa discordância, a questão aborda o conceito filosófico da oposição entre a norma legal e a justiça ideal."
+    },
+    {
+      "alternativa": "E",
+      "correta": true,
+      "justificativa": "Quando a lei e a moralidade (entendida como o campo da justiça) não coincidem, estabelece-se uma oposição entre o que a norma jurídica determina (lei) e o que é eticamente justo (justiça)."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T00:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "O texto aborda a distinção conceitual entre moralidade e lei, tema clássico da filosofia do direito e da ética.",
+      "A habilidade H23 avalia a importância dos valores éticos na estruturação política e social."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2014",
+      "arquivo_matriz": "Matriz ENEM Oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Luis Miguel de Oliveira Paranhos",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

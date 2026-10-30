@@ -1,0 +1,19 @@
+QUESTÃO 50
+
+[FIGURA: Gravura em preto e branco de M. C. Escher intitulada "Mão com esfera refletora". Mostra a mão esquerda de um homem segurando uma esfera espelhada. Na superfície esférica, há uma imagem refletida distorcida em grande angular de um quarto, com uma estante de livros, janela e a figura do próprio artista sentado ao centro, olhando para o observador.]
+
+A ilustração representa uma das mais conhecidas obras do artista gráfico holandês M. C. Escher. Seu trabalho tem como características as figuras geométricas e ilusões de óptica.
+
+Disponível em: www.myspace.com. Acesso em: 20 out. 2011.
+
+Pelas características da imagem formada na gravura, o artista representou um espelho esférico do tipo
+
+A convexo, pois as imagens de todos os objetos, formadas na esfera, inclusive a do artista, são virtuais.
+
+B côncavo, pois as imagens são diretas, indicando que todos os objetos visualizados estão entre o foco e o espelho.
+
+C côncavo, devido ao pequeno campo de visão, não é possível observar todos os detalhes do local onde se encontra o artista.
+
+D convexo, pois as imagens são formadas pelo cruzamento dos raios de luz refletidos pela esfera, por isso as imagens são diretas e não invertidas.
+
+E côncavo, devido às imagens formadas por este espelho serem todas reais, ou seja, formadas pelo cruzamento dos raios de luz refletidos pela esfera.

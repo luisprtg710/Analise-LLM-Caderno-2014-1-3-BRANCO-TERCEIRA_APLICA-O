@@ -1,0 +1,105 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2014,
+      "dia": 1,
+      "numero": 3,
+      "cor": "BRANCO",
+      "aplicacao": "TERCEIRA_APLICAÇÃO"
+    },
+    "identificacao_questao": {
+      "numero": 75,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-75.txt",
+      "gabarito": "B"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CN",
+      "nome": "Ciências da Natureza e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C6",
+      "descricao": "Apropriar-se de conhecimentos da física para, em situações problema, interpretar, avaliar ou planejar intervenções científico- tecnológicas."
+    },
+    "habilidade_principal": {
+      "id": "H20",
+      "descricao": "Caracterizar causas ou efeitos dos movimentos de partículas, substâncias, objetos ou corpos celestes."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H17",
+        "descricao": "Relacionar informações apresentadas em diferentes formas de linguagem e representação usadas nas ciências físicas, químicas ou biológicas, como texto discursivo, gráficos, tabelas, relações matemáticas ou linguagem simbólica."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Física",
+    "conteudos_relacionados": [
+      "Mecânica"
+    ],
+    "assunto": "Gravitação Universal",
+    "objeto_de_analise": "Aceleração da gravidade em órbita",
+    "fenomeno_conceito": "A aceleração gravitacional em um ponto do espaço depende apenas da massa do corpo celeste gerador do campo e da distância até ele, sendo independente da massa do satélite."
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "Incorre no erro de achar que a aceleração é inversamente proporcional à massa, dividindo o valor por dois."
+    },
+    {
+      "alternativa": "B",
+      "correta": true,
+      "justificativa": "Correta. A aceleração gravitacional em um ponto do campo gravitacional da Terra é a mesma para qualquer corpo, independentemente de sua massa, pois a força gravitacional é proporcional à massa do satélite e é igual a massa vezes aceleração, cancelando a massa do satélite na equação."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "Incorre no erro de associar a aceleração ao valor padrão da gravidade na superfície terrestre (9,8 metros por segundo ao quadrado)."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "Incorre no erro de multiplicar a aceleração por dois, assumindo uma relação diretamente proporcional incorreta com a massa."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "Incorre no erro de elevar ao quadrado o valor da aceleração dada."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-05-20T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "A questão trata de satélites sujeitos ao campo gravitacional da Terra.",
+      "A aceleração da gravidade em um ponto não depende da massa do satélite."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2014",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Luis Miguel de Oliveira Paranhos",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

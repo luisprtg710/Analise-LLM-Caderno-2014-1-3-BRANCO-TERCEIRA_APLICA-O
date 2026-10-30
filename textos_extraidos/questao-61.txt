@@ -1,0 +1,15 @@
+QUESTÃO 61
+
+As máquinas térmicas foram aprimoradas durante a primeira Revolução Industrial, iniciada na Inglaterra no século XVIII. O trabalho do engenheiro francês Nicolas Léonard Sadi Carnot, que notou a relação entre a eficiência da máquina a vapor e a diferença de temperatura entre o vapor e o ambiente externo, foi fundamental para esse aprimoramento.
+
+A solução desenvolvida por Carnot para aumentar a eficiência da máquina a vapor foi
+
+A reduzir o volume do recipiente sob pressão constante.
+
+B aumentar o volume do recipiente e reduzir a pressão proporcionalmente.
+
+C reduzir o volume do recipiente e a pressão proporcionalmente.
+
+D reduzir a pressão dentro do recipiente e manter seu volume.
+
+E aumentar a pressão dentro do recipiente e manter seu volume.

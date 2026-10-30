@@ -1,0 +1,106 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2014,
+      "dia": 1,
+      "numero": 3,
+      "cor": "BRANCO",
+      "aplicacao": "TERCEIRA_APLICAÇÃO"
+    },
+    "identificacao_questao": {
+      "numero": 30,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-30.txt",
+      "gabarito": "B"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C3",
+      "descricao": "Compreender a produção e o papel histórico das instituições sociais, políticas e econômicas, associando-as aos diferentes grupos, conflitos e movimentos sociais."
+    },
+    "habilidade_principal": {
+      "id": "H11",
+      "descricao": "Identificar registros de práticas de grupos sociais no tempo e no espaço."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H15",
+        "descricao": "Avaliar criticamente conflitos culturais, sociais, políticos, econômicos ou ambientais ao longo da história."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Escravidão no Brasil",
+    "conteudos_relacionados": [
+      "Resistência escrava",
+      "Controle social e repressão"
+    ],
+    "assunto": "Fuga e captura de escravizados no século XIX",
+    "objeto_de_analise": "Anúncio de jornal sobre fuga de escravizado",
+    "fenomeno_conceito": "Escravismo",
+    "analise_alternativas": [
+      {
+        "alternativa": "A",
+        "correta_incorreta": "incorreta",
+        "justificativa": "O texto aborda a fuga e a oferta de recompensa pela captura, e não as formas de obtenção de alforria."
+      },
+      {
+        "alternativa": "B",
+        "correta_incorreta": "correta",
+        "justificativa": "O anúncio demonstra a tentativa de recaptura por meio de recompensa financeira e entrega à cadeia, evidenciando a forte repressão às fugas."
+      },
+      {
+        "alternativa": "C",
+        "correta_incorreta": "incorreta",
+        "justificativa": "Embora o movimento abolicionista tenha sido importante, o anúncio em si ilustra a dinâmica de controle e captura individual, e não a atuação do movimento abolicionista."
+      },
+      {
+        "alternativa": "D",
+        "correta_incorreta": "incorreta",
+        "justificativa": "A oferta de recompensa e a entrega à cadeia refletem a lógica da repressão e da perda patrimonial, e não o paternalismo."
+      },
+      {
+        "alternativa": "E",
+        "correta_incorreta": "incorreta",
+        "justificativa": "O texto trata de uma fuga individual e de anúncio de captura, sem menção a quilombos."
+      }
+    ]
+  },
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "O texto é um anúncio de jornal de 1880 oferecendo recompensa pela captura de um escravo fugido.",
+      "A alternativa B aponta diretamente para a repressão às fugas de escravos pelos senhores e pelo Estado."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem_2014",
+      "arquivo_matriz": "matriz_enem"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Luis Miguel de Oliveira Paranhos",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

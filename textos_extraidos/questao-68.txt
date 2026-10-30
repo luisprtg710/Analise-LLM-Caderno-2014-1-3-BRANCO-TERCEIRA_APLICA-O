@@ -1,0 +1,13 @@
+QUESTÃO 68
+
+O tratamento convencional da água, quando há, remove todas as impurezas? Não. À custa de muita adição de cloro, a água que abastece residências, escolas e trabalhos é bacteriologicamente segura. Os tratamentos disponíveis removem partículas e parte das substâncias dissolvidas, resultando em uma água transparente e, geralmente, inodora e insípida, mas não quimicamente pura. O processo de purificação da água compreende etapas distintas, que são: a decantação, a coagulação/floculação, a filtração, a desinfecção e a fluoretação.
+
+GUIMARÃES, J.R.D. **Claro como a água?** Disponível em: http://cienciahoje.uol.com.br. Acesso em: 2 abr. 2011 (adaptado).
+
+Dentre as etapas descritas, são considerados processos químicos:
+
+A) Decantação e coagulação.
+B) Decantação e filtração.
+C) Coagulação e desinfecção.
+D) Floculação e filtração.
+E) Filtração e fluoretação.
